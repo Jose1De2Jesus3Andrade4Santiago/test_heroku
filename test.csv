@@ -1,0 +1,2470 @@
+Región,Estado,Municipio,Precio Litro,Precio Kg,Fecha
+1,Baja California,Tijuana,22.02,11.89,7-nov-2021
+1,Baja California,Playas de Rosarito,22.02,11.89,7-nov-2021
+2,Baja California,Tecate,24.30,13.12,7-nov-2021
+3,Baja California,Mexicali,23.80,12.85,7-nov-2021
+4,Sonora,Álamos,25.24,13.63,7-nov-2021
+4,Sonora,Bácum,25.24,13.63,7-nov-2021
+4,Sonora,Cajeme,25.24,13.63,7-nov-2021
+4,Sonora,Etchojoa,25.24,13.63,7-nov-2021
+4,Sonora,Huatabampo,25.24,13.63,7-nov-2021
+4,Sonora,Navojoa,25.24,13.63,7-nov-2021
+4,Sonora,Ónavas,25.24,13.63,7-nov-2021
+4,Sonora,Quiriego,25.24,13.63,7-nov-2021
+4,Sonora,Rosario,25.24,13.63,7-nov-2021
+4,Sonora,Suaqui Grande,25.24,13.63,7-nov-2021
+4,Sonora,Yécora,25.24,13.63,7-nov-2021
+4,Sonora,Benito Juárez,25.24,13.63,7-nov-2021
+4,Sonora,San Ignacio Río Muerto,25.24,13.63,7-nov-2021
+5,Sonora,San Luis Río Colorado,23.49,12.68,7-nov-2021
+6,Baja California,Ensenada,23.93,12.92,7-nov-2021
+7,Baja California Sur,Comondú,28.04,15.14,7-nov-2021
+7,Baja California Sur,Loreto,28.04,15.14,7-nov-2021
+8,Baja California,San Quintín,27.92,15.07,7-nov-2021
+8,Baja California Sur,Mulegé,27.92,15.07,7-nov-2021
+9,Baja California Sur,Los Cabos,25.58,13.81,7-nov-2021
+10,Baja California Sur,La Paz,26.76,14.45,7-nov-2021
+11,Sonora,Aconchi,26.11,14.10,7-nov-2021
+11,Sonora,Agua Prieta,24.31,13.12,7-nov-2021
+11,Sonora,Arizpe,26.11,14.10,7-nov-2021
+11,Sonora,Bacadéhuachi,26.11,14.10,7-nov-2021
+11,Sonora,Bacerac,26.11,14.10,7-nov-2021
+11,Sonora,Bacoachi,26.11,14.10,7-nov-2021
+11,Sonora,Banámichi,26.11,14.10,7-nov-2021
+11,Sonora,Baviácora,26.11,14.10,7-nov-2021
+11,Sonora,Bavispe,26.11,14.10,7-nov-2021
+11,Sonora,Cananea,24.31,13.12,7-nov-2021
+11,Sonora,Cumpas,26.11,14.10,7-nov-2021
+11,Sonora,Divisaderos,26.11,14.10,7-nov-2021
+11,Sonora,Fronteras,26.11,14.10,7-nov-2021
+11,Sonora,Granados,26.11,14.10,7-nov-2021
+11,Sonora,Huachinera,26.11,14.10,7-nov-2021
+11,Sonora,Huásabas,26.11,14.10,7-nov-2021
+11,Sonora,Huépac,26.11,14.10,7-nov-2021
+11,Sonora,Imuris,26.11,14.10,7-nov-2021
+11,Sonora,Moctezuma,26.11,14.10,7-nov-2021
+11,Sonora,Naco,24.31,13.12,7-nov-2021
+11,Sonora,Nácori Chico,26.11,14.10,7-nov-2021
+11,Sonora,Nacozari de García,26.11,14.10,7-nov-2021
+11,Sonora,Nogales,24.31,13.12,7-nov-2021
+11,Sonora,San Felipe de Jesús,26.11,14.10,7-nov-2021
+11,Sonora,Santa Cruz,24.31,13.12,7-nov-2021
+11,Sonora,Sáric,24.31,13.12,7-nov-2021
+11,Sonora,Tepache,26.11,14.10,7-nov-2021
+11,Sonora,Villa Hidalgo,26.11,14.10,7-nov-2021
+12,Sonora,Altar,23.74,12.82,7-nov-2021
+12,Sonora,Caborca,23.74,12.82,7-nov-2021
+12,Sonora,Oquitoa,25.50,13.77,7-nov-2021
+12,Sonora,Pitiquito,25.50,13.77,7-nov-2021
+12,Sonora,Puerto Peñasco,23.74,12.82,7-nov-2021
+12,Sonora,General Plutarco Elías Calles,23.74,12.82,7-nov-2021
+13,Sonora,Atil,25.30,13.66,7-nov-2021
+13,Sonora,Benjamín Hill,25.30,13.66,7-nov-2021
+13,Sonora,Cucurpe,25.30,13.66,7-nov-2021
+13,Sonora,Magdalena,25.30,13.66,7-nov-2021
+13,Sonora,Opodepe,25.30,13.66,7-nov-2021
+13,Sonora,Santa Ana,25.30,13.66,7-nov-2021
+13,Sonora,Trincheras,25.30,13.66,7-nov-2021
+13,Sonora,Tubutama,25.30,13.66,7-nov-2021
+14,Sonora,Arivechi,26.17,14.13,7-nov-2021
+14,Sonora,Bacanora,26.17,14.13,7-nov-2021
+14,Sonora,Carbó,26.17,14.13,7-nov-2021
+14,Sonora,La Colorada,26.17,14.13,7-nov-2021
+14,Sonora,Hermosillo,26.17,14.13,7-nov-2021
+14,Sonora,Mazatán,26.17,14.13,7-nov-2021
+14,Sonora,Rayón,26.17,14.13,7-nov-2021
+14,Sonora,Sahuaripa,26.17,14.13,7-nov-2021
+14,Sonora,San Javier,26.17,14.13,7-nov-2021
+14,Sonora,San Miguel de Horcasitas,26.17,14.13,7-nov-2021
+14,Sonora,San Pedro de la Cueva,26.17,14.13,7-nov-2021
+14,Sonora,Soyopa,26.17,14.13,7-nov-2021
+14,Sonora,Ures,26.17,14.13,7-nov-2021
+14,Sonora,Villa Pesqueira,26.17,14.13,7-nov-2021
+15,Sonora,Empalme,27.59,14.90,7-nov-2021
+15,Sonora,Guaymas,27.59,14.90,7-nov-2021
+16,Sinaloa,Ahome,26.85,14.50,7-nov-2021
+16,Sinaloa,Choix,26.85,14.50,7-nov-2021
+16,Sinaloa,El Fuerte,26.85,14.50,7-nov-2021
+17,Sinaloa,Angostura,26.91,14.53,7-nov-2021
+17,Sinaloa,Guasave,26.91,14.53,7-nov-2021
+17,Sinaloa,Mocorito,26.91,14.53,7-nov-2021
+17,Sinaloa,Salvador Alvarado,26.91,14.53,7-nov-2021
+17,Sinaloa,Sinaloa,26.91,14.53,7-nov-2021
+18,Sinaloa,Badiraguato,25.19,13.60,7-nov-2021
+18,Sinaloa,Culiacán,25.19,13.60,7-nov-2021
+18,Sinaloa,Navolato,25.19,13.60,7-nov-2021
+19,Nayarit,Acaponeta,25.68,13.86,7-nov-2021
+19,Nayarit,Huajicori,25.68,13.86,7-nov-2021
+19,Nayarit,Rosamorada,25.68,13.86,7-nov-2021
+19,Nayarit,Tecuala,25.68,13.86,7-nov-2021
+19,Sinaloa,Concordia,25.68,13.86,7-nov-2021
+19,Sinaloa,Escuinapa,25.68,13.86,7-nov-2021
+19,Sinaloa,Mazatlán,25.68,13.86,7-nov-2021
+19,Sinaloa,Rosario,25.68,13.86,7-nov-2021
+20,Sinaloa,Cosalá,27.80,15.01,7-nov-2021
+20,Sinaloa,Elota,27.80,15.01,7-nov-2021
+20,Sinaloa,San Ignacio,27.80,15.01,7-nov-2021
+21,Chihuahua,Guadalupe,23.69,12.79,7-nov-2021
+21,Chihuahua,Juárez,23.69,12.79,7-nov-2021
+21,Chihuahua,Praxedis G. Guerrero,23.69,12.79,7-nov-2021
+22,Chihuahua,Ahumada,26.11,14.10,7-nov-2021
+23,Chihuahua,Ascensión,23.35,12.61,7-nov-2021
+23,Chihuahua,Casas Grandes,25.08,13.54,7-nov-2021
+23,Chihuahua,Galeana,25.08,13.54,7-nov-2021
+23,Chihuahua,Janos,23.35,12.61,7-nov-2021
+23,Chihuahua,Nuevo Casas Grandes,25.08,13.54,7-nov-2021
+24,Chihuahua,Buenaventura,25.39,13.71,7-nov-2021
+24,Chihuahua,Gómez Farías,25.39,13.71,7-nov-2021
+24,Chihuahua,Ignacio Zaragoza,25.39,13.71,7-nov-2021
+24,Chihuahua,Madera,25.39,13.71,7-nov-2021
+24,Chihuahua,Matachí,25.39,13.71,7-nov-2021
+24,Chihuahua,Moris,25.39,13.71,7-nov-2021
+24,Chihuahua,Namiquipa,25.39,13.71,7-nov-2021
+24,Chihuahua,Ocampo,25.39,13.71,7-nov-2021
+24,Chihuahua,Temósachic,25.39,13.71,7-nov-2021
+25,Chihuahua,Aldama,24.09,13.01,7-nov-2021
+25,Chihuahua,Aquiles Serdán,24.09,13.01,7-nov-2021
+25,Chihuahua,Chihuahua,24.09,13.01,7-nov-2021
+25,Chihuahua,Santa Isabel,24.09,13.01,7-nov-2021
+25,Chihuahua,Riva Palacio,24.09,13.01,7-nov-2021
+26,Chihuahua,Coyame del Sotol,23.80,12.85,7-nov-2021
+26,Chihuahua,Manuel Benavides,23.80,12.85,7-nov-2021
+26,Chihuahua,Ojinaga,23.80,12.85,7-nov-2021
+27,Chihuahua,Allende,27.75,14.99,7-nov-2021
+27,Chihuahua,Balleza,27.75,14.99,7-nov-2021
+27,Chihuahua,Coronado,27.75,14.99,7-nov-2021
+27,Chihuahua,Hidalgo del Parral,27.75,14.99,7-nov-2021
+27,Chihuahua,Huejotitán,27.75,14.99,7-nov-2021
+27,Chihuahua,Matamoros,27.75,14.99,7-nov-2021
+27,Chihuahua,Rosario,27.75,14.99,7-nov-2021
+27,Chihuahua,San Francisco del Oro,27.75,14.99,7-nov-2021
+27,Chihuahua,Santa Bárbara,27.75,14.99,7-nov-2021
+27,Chihuahua,El Tule,27.75,14.99,7-nov-2021
+27,Chihuahua,Valle de Zaragoza,27.75,14.99,7-nov-2021
+28,Chihuahua,Batopilas de Manuel Gómez Morín,28.33,15.30,7-nov-2021
+28,Chihuahua,Bocoyna,28.33,15.30,7-nov-2021
+28,Chihuahua,Chínipas,28.33,15.30,7-nov-2021
+28,Chihuahua,Guachochi,28.33,15.30,7-nov-2021
+28,Chihuahua,Guadalupe y Calvo,28.33,15.30,7-nov-2021
+28,Chihuahua,Guazapares,28.33,15.30,7-nov-2021
+28,Chihuahua,Maguarichi,28.33,15.30,7-nov-2021
+28,Chihuahua,Morelos,28.33,15.30,7-nov-2021
+28,Chihuahua,Nonoava,28.33,15.30,7-nov-2021
+28,Chihuahua,Urique,28.33,15.30,7-nov-2021
+28,Chihuahua,Uruachi,28.33,15.30,7-nov-2021
+29,Chihuahua,Camargo,25.48,13.76,7-nov-2021
+29,Chihuahua,La Cruz,25.48,13.76,7-nov-2021
+29,Chihuahua,Jiménez,25.48,13.76,7-nov-2021
+29,Chihuahua,López,25.48,13.76,7-nov-2021
+29,Chihuahua,San Francisco de Conchos,25.48,13.76,7-nov-2021
+30,Chihuahua,Bachíniva,25.17,13.59,7-nov-2021
+30,Chihuahua,Carichí,25.17,13.59,7-nov-2021
+30,Chihuahua,Cuauhtémoc,25.17,13.59,7-nov-2021
+30,Chihuahua,Cusihuiriachi,25.17,13.59,7-nov-2021
+30,Chihuahua,Dr. Belisario Domínguez,25.17,13.59,7-nov-2021
+30,Chihuahua,Gran Morelos,25.17,13.59,7-nov-2021
+30,Chihuahua,Guerrero,25.17,13.59,7-nov-2021
+30,Chihuahua,San Francisco de Borja,25.17,13.59,7-nov-2021
+31,Chihuahua,Delicias,25.89,13.98,7-nov-2021
+31,Chihuahua,Julimes,25.89,13.98,7-nov-2021
+31,Chihuahua,Meoqui,25.89,13.98,7-nov-2021
+31,Chihuahua,Rosales,25.89,13.98,7-nov-2021
+31,Chihuahua,Satevó,25.89,13.98,7-nov-2021
+31,Chihuahua,Saucillo,25.89,13.98,7-nov-2021
+32,Tamaulipas,Gustavo Díaz Ordaz,23.03,12.43,7-nov-2021
+33,Tamaulipas,Matamoros,23.29,12.58,7-nov-2021
+33,Tamaulipas,Reynosa,23.29,12.58,7-nov-2021
+33,Tamaulipas,Río Bravo,23.29,12.58,7-nov-2021
+33,Tamaulipas,Valle Hermoso,23.29,12.58,7-nov-2021
+34,Coahuila de Zaragoza,Arteaga,25.04,13.52,7-nov-2021
+34,Coahuila de Zaragoza,General Cepeda,25.04,13.52,7-nov-2021
+34,Coahuila de Zaragoza,Ramos Arizpe,25.04,13.52,7-nov-2021
+34,Coahuila de Zaragoza,Saltillo,25.04,13.52,7-nov-2021
+35,Coahuila de Zaragoza,Abasolo,27.08,14.62,7-nov-2021
+35,Coahuila de Zaragoza,Candela,27.08,14.62,7-nov-2021
+35,Coahuila de Zaragoza,Castaños,27.08,14.62,7-nov-2021
+35,Coahuila de Zaragoza,Cuatro Ciénegas,27.08,14.62,7-nov-2021
+35,Coahuila de Zaragoza,Escobedo,27.08,14.62,7-nov-2021
+35,Coahuila de Zaragoza,Frontera,27.08,14.62,7-nov-2021
+35,Coahuila de Zaragoza,Lamadrid,27.08,14.62,7-nov-2021
+35,Coahuila de Zaragoza,Monclova,27.08,14.62,7-nov-2021
+35,Coahuila de Zaragoza,Nadadores,27.08,14.62,7-nov-2021
+35,Coahuila de Zaragoza,Ocampo,25.21,13.62,7-nov-2021
+35,Coahuila de Zaragoza,Sacramento,27.08,14.62,7-nov-2021
+35,Coahuila de Zaragoza,Sierra Mojada,27.08,14.62,7-nov-2021
+36,Nuevo León,Aramberri,27.62,14.91,7-nov-2021
+36,Nuevo León,Doctor Arroyo,27.62,14.91,7-nov-2021
+36,Nuevo León,General Zaragoza,27.62,14.91,7-nov-2021
+36,Nuevo León,Mier y Noriega,27.62,14.91,7-nov-2021
+36,Tamaulipas,Bustamante,27.62,14.91,7-nov-2021
+36,Tamaulipas,Miquihuana,27.62,14.91,7-nov-2021
+37,Nuevo León,Galeana,27.37,14.78,7-nov-2021
+37,Nuevo León,Iturbide,27.37,14.78,7-nov-2021
+38,Nuevo León,Allende,26.27,14.18,7-nov-2021
+38,Nuevo León,General Terán,26.27,14.18,7-nov-2021
+38,Nuevo León,Hualahuises,26.27,14.18,7-nov-2021
+38,Nuevo León,Linares,26.27,14.18,7-nov-2021
+38,Nuevo León,Montemorelos,26.27,14.18,7-nov-2021
+38,Nuevo León,Rayones,26.27,14.18,7-nov-2021
+39,Coahuila de Zaragoza,Acuña,24.48,13.22,7-nov-2021
+39,Coahuila de Zaragoza,Allende,26.29,14.20,7-nov-2021
+39,Coahuila de Zaragoza,Guerrero,24.48,13.22,7-nov-2021
+39,Coahuila de Zaragoza,Jiménez,24.48,13.22,7-nov-2021
+39,Coahuila de Zaragoza,Morelos,26.29,14.20,7-nov-2021
+39,Coahuila de Zaragoza,Nava,24.48,13.22,7-nov-2021
+39,Coahuila de Zaragoza,Piedras Negras,24.48,13.22,7-nov-2021
+39,Coahuila de Zaragoza,Villa Unión,26.29,14.20,7-nov-2021
+39,Coahuila de Zaragoza,Zaragoza,24.48,13.22,7-nov-2021
+40,Coahuila de Zaragoza,Hidalgo,24.76,13.37,7-nov-2021
+40,Nuevo León,Anáhuac,24.76,13.37,7-nov-2021
+40,Nuevo León,Lampazos de Naranjo,26.59,14.36,7-nov-2021
+40,Tamaulipas,Nuevo Laredo,24.76,13.37,7-nov-2021
+41,Coahuila de Zaragoza,Juárez,25.67,13.86,7-nov-2021
+41,Coahuila de Zaragoza,Múzquiz,25.67,13.86,7-nov-2021
+41,Coahuila de Zaragoza,Progreso,25.67,13.86,7-nov-2021
+41,Coahuila de Zaragoza,Sabinas,25.67,13.86,7-nov-2021
+41,Coahuila de Zaragoza,San Buenaventura,25.67,13.86,7-nov-2021
+41,Coahuila de Zaragoza,San Juan de Sabinas,25.67,13.86,7-nov-2021
+42,Nuevo León,Agualeguas,26.35,14.23,7-nov-2021
+42,Nuevo León,Los Aldamas,26.35,14.23,7-nov-2021
+42,Nuevo León,Bustamante,26.35,14.23,7-nov-2021
+42,Nuevo León,Cerralvo,26.35,14.23,7-nov-2021
+42,Nuevo León,China,26.35,14.23,7-nov-2021
+42,Nuevo León,Doctor Coss,26.35,14.23,7-nov-2021
+42,Nuevo León,General Bravo,26.35,14.23,7-nov-2021
+42,Nuevo León,General Treviño,26.35,14.23,7-nov-2021
+42,Nuevo León,Los Herreras,26.35,14.23,7-nov-2021
+42,Nuevo León,Melchor Ocampo,26.35,14.23,7-nov-2021
+42,Nuevo León,Parás,26.35,14.23,7-nov-2021
+42,Nuevo León,Los Ramones,26.35,14.23,7-nov-2021
+42,Nuevo León,Sabinas Hidalgo,26.35,14.23,7-nov-2021
+42,Nuevo León,Vallecillo,26.35,14.23,7-nov-2021
+42,Nuevo León,Villaldama,26.35,14.23,7-nov-2021
+43,Tamaulipas,Abasolo,26.15,14.12,7-nov-2021
+43,Tamaulipas,Casas,26.15,14.12,7-nov-2021
+43,Tamaulipas,Güémez,26.15,14.12,7-nov-2021
+43,Tamaulipas,Hidalgo,26.15,14.12,7-nov-2021
+43,Tamaulipas,Jaumave,26.15,14.12,7-nov-2021
+43,Tamaulipas,Jiménez,26.15,14.12,7-nov-2021
+43,Tamaulipas,Llera,26.15,14.12,7-nov-2021
+43,Tamaulipas,Mainero,26.15,14.12,7-nov-2021
+43,Tamaulipas,Padilla,26.15,14.12,7-nov-2021
+43,Tamaulipas,San Carlos,26.15,14.12,7-nov-2021
+43,Tamaulipas,Soto la Marina,26.15,14.12,7-nov-2021
+43,Tamaulipas,Victoria,26.15,14.12,7-nov-2021
+43,Tamaulipas,Villagrán,26.15,14.12,7-nov-2021
+44,Tamaulipas,Burgos,24.62,13.30,7-nov-2021
+44,Tamaulipas,Cruillas,24.62,13.30,7-nov-2021
+44,Tamaulipas,Méndez,24.62,13.30,7-nov-2021
+44,Tamaulipas,San Fernando,24.62,13.30,7-nov-2021
+44,Tamaulipas,San Nicolás,24.62,13.30,7-nov-2021
+45,Tamaulipas,Camargo,23.39,12.63,7-nov-2021
+45,Tamaulipas,Guerrero,23.39,12.63,7-nov-2021
+45,Tamaulipas,Mier,23.39,12.63,7-nov-2021
+45,Tamaulipas,Miguel Alemán,23.39,12.63,7-nov-2021
+46,Nuevo León,Abasolo,25.53,13.79,7-nov-2021
+46,Nuevo León,Apodaca,25.53,13.79,7-nov-2021
+46,Nuevo León,Cadereyta Jiménez,25.53,13.79,7-nov-2021
+46,Nuevo León,El Carmen,25.53,13.79,7-nov-2021
+46,Nuevo León,Ciénega de Flores,25.53,13.79,7-nov-2021
+46,Nuevo León,Doctor González,25.53,13.79,7-nov-2021
+46,Nuevo León,García,25.53,13.79,7-nov-2021
+46,Nuevo León,San Pedro Garza García,25.53,13.79,7-nov-2021
+46,Nuevo León,General Escobedo,25.53,13.79,7-nov-2021
+46,Nuevo León,General Zuazua,25.53,13.79,7-nov-2021
+46,Nuevo León,Guadalupe,25.53,13.79,7-nov-2021
+46,Nuevo León,Higueras,25.53,13.79,7-nov-2021
+46,Nuevo León,Juárez,25.53,13.79,7-nov-2021
+46,Nuevo León,Marín,25.53,13.79,7-nov-2021
+46,Nuevo León,Mina,25.53,13.79,7-nov-2021
+46,Nuevo León,Monterrey,25.53,13.79,7-nov-2021
+46,Nuevo León,Pesquería,25.53,13.79,7-nov-2021
+46,Nuevo León,Salinas Victoria,25.53,13.79,7-nov-2021
+46,Nuevo León,San Nicolás de los Garza,25.53,13.79,7-nov-2021
+46,Nuevo León,Hidalgo,25.53,13.79,7-nov-2021
+46,Nuevo León,Santa Catarina,25.53,13.79,7-nov-2021
+46,Nuevo León,Santiago,25.53,13.79,7-nov-2021
+47,Coahuila de Zaragoza,Francisco I. Madero,24.18,13.06,7-nov-2021
+47,Coahuila de Zaragoza,Matamoros,24.18,13.06,7-nov-2021
+47,Coahuila de Zaragoza,San Pedro,24.18,13.06,7-nov-2021
+47,Coahuila de Zaragoza,Torreón,24.18,13.06,7-nov-2021
+47,Coahuila de Zaragoza,Viesca,24.18,13.06,7-nov-2021
+47,Durango,Gómez Palacio,24.18,13.06,7-nov-2021
+47,Durango,Lerdo,24.18,13.06,7-nov-2021
+47,Durango,Mapimí,24.18,13.06,7-nov-2021
+47,Durango,Tlahualilo,24.18,13.06,7-nov-2021
+48,Durango,Canelas,28.34,15.30,7-nov-2021
+48,Durango,Guanaceví,28.34,15.30,7-nov-2021
+48,Durango,Otáez,28.34,15.30,7-nov-2021
+48,Durango,Santiago Papasquiaro,28.34,15.30,7-nov-2021
+48,Durango,Tamazula,28.34,15.30,7-nov-2021
+48,Durango,Tepehuanes,28.34,15.30,7-nov-2021
+48,Durango,Topia,28.34,15.30,7-nov-2021
+49,Durango,Coneto de Comonfort,27.01,14.59,7-nov-2021
+49,Durango,Cuencamé,27.01,14.59,7-nov-2021
+49,Durango,General Simón Bolívar,27.01,14.59,7-nov-2021
+49,Durango,Guadalupe Victoria,27.01,14.59,7-nov-2021
+49,Durango,Nazas,27.01,14.59,7-nov-2021
+49,Durango,Peñón Blanco,27.01,14.59,7-nov-2021
+49,Durango,Rodeo,27.01,14.59,7-nov-2021
+49,Durango,San Juan de Guadalupe,27.01,14.59,7-nov-2021
+49,Durango,San Juan del Río,27.01,14.59,7-nov-2021
+49,Durango,San Luis del Cordero,27.01,14.59,7-nov-2021
+49,Durango,San Pedro del Gallo,27.01,14.59,7-nov-2021
+49,Durango,Santa Clara,27.01,14.59,7-nov-2021
+49,Zacatecas,Juan Aldama,27.01,14.59,7-nov-2021
+49,Zacatecas,Miguel Auza,27.01,14.59,7-nov-2021
+50,Durango,Hidalgo,25.50,13.77,7-nov-2021
+50,Durango,Indé,25.50,13.77,7-nov-2021
+50,Durango,Ocampo,25.50,13.77,7-nov-2021
+50,Durango,El Oro,25.50,13.77,7-nov-2021
+50,Durango,San Bernardo,25.50,13.77,7-nov-2021
+51,Durango,Canatlán,26.93,14.54,7-nov-2021
+51,Durango,Durango,26.93,14.54,7-nov-2021
+51,Durango,Pánuco de Coronado,26.93,14.54,7-nov-2021
+51,Durango,Nuevo Ideal,26.93,14.54,7-nov-2021
+52,Durango,Mezquital,28.68,15.49,7-nov-2021
+52,Durango,Pueblo Nuevo,28.68,15.49,7-nov-2021
+52,Durango,San Dimas,28.68,15.49,7-nov-2021
+53,Durango,Nombre de Dios,27.39,14.79,7-nov-2021
+53,Durango,Poanas,27.39,14.79,7-nov-2021
+53,Durango,Súchil,27.39,14.79,7-nov-2021
+53,Durango,Vicente Guerrero,27.39,14.79,7-nov-2021
+53,Zacatecas,Chalchihuites,27.39,14.79,7-nov-2021
+53,Zacatecas,Jiménez del Teul,27.39,14.79,7-nov-2021
+53,Zacatecas,Monte Escobedo,27.39,14.79,7-nov-2021
+53,Zacatecas,Sombrerete,27.39,14.79,7-nov-2021
+53,Zacatecas,Valparaíso,27.39,14.79,7-nov-2021
+54,San Luis Potosí,Catorce,24.88,13.43,7-nov-2021
+54,San Luis Potosí,Cedral,24.88,13.43,7-nov-2021
+54,San Luis Potosí,Matehuala,24.88,13.43,7-nov-2021
+54,San Luis Potosí,Vanegas,24.88,13.43,7-nov-2021
+54,San Luis Potosí,Villa de Guadalupe,24.88,13.43,7-nov-2021
+54,San Luis Potosí,Villa de la Paz,24.88,13.43,7-nov-2021
+54,Zacatecas,Concepción del Oro,24.88,13.43,7-nov-2021
+54,Zacatecas,Mazapil,24.88,13.43,7-nov-2021
+54,Zacatecas,Melchor Ocampo,24.88,13.43,7-nov-2021
+54,Zacatecas,El Salvador,24.88,13.43,7-nov-2021
+55,Coahuila de Zaragoza,Parras,26.97,14.56,7-nov-2021
+56,Jalisco,Bolaños,27.40,14.79,7-nov-2021
+56,Jalisco,Colotlán,27.40,14.79,7-nov-2021
+56,Jalisco,Chimaltitán,27.40,14.79,7-nov-2021
+56,Jalisco,Huejúcar,27.40,14.79,7-nov-2021
+56,Jalisco,Huejuquilla el Alto,27.40,14.79,7-nov-2021
+56,Jalisco,Mezquitic,27.40,14.79,7-nov-2021
+56,Jalisco,San Martín de Bolaños,27.40,14.79,7-nov-2021
+56,Jalisco,Santa María de los Ángeles,27.40,14.79,7-nov-2021
+56,Jalisco,Totatiche,27.40,14.79,7-nov-2021
+56,Jalisco,Villa Guerrero,27.40,14.79,7-nov-2021
+56,Zacatecas,Atolinga,27.40,14.79,7-nov-2021
+56,Zacatecas,Benito Juárez,27.40,14.79,7-nov-2021
+56,Zacatecas,Trinidad García de la Cadena,27.40,14.79,7-nov-2021
+56,Zacatecas,Momax,27.40,14.79,7-nov-2021
+56,Zacatecas,Tepechitlán,27.40,14.79,7-nov-2021
+56,Zacatecas,Teúl de González Ortega,27.40,14.79,7-nov-2021
+56,Zacatecas,Tlaltenango de Sánchez Román,27.40,14.79,7-nov-2021
+56,Zacatecas,Santa María de la Paz,27.40,14.79,7-nov-2021
+57,Zacatecas,Calera,27.23,14.71,7-nov-2021
+57,Zacatecas,Cuauhtémoc,27.23,14.71,7-nov-2021
+57,Zacatecas,Fresnillo,27.23,14.71,7-nov-2021
+57,Zacatecas,Genaro Codina,27.23,14.71,7-nov-2021
+57,Zacatecas,General Enrique Estrada,27.23,14.71,7-nov-2021
+57,Zacatecas,Guadalupe,27.23,14.71,7-nov-2021
+57,Zacatecas,Jerez,27.23,14.71,7-nov-2021
+57,Zacatecas,Morelos,27.23,14.71,7-nov-2021
+57,Zacatecas,Pánuco,27.23,14.71,7-nov-2021
+57,Zacatecas,Susticacán,27.23,14.71,7-nov-2021
+57,Zacatecas,Tepetongo,27.23,14.71,7-nov-2021
+57,Zacatecas,Vetagrande,27.23,14.71,7-nov-2021
+57,Zacatecas,Villanueva,27.23,14.71,7-nov-2021
+57,Zacatecas,Zacatecas,27.23,14.71,7-nov-2021
+58,Zacatecas,Cañitas de Felipe Pescador,28.37,15.32,7-nov-2021
+58,Zacatecas,General Francisco R. Murguía,28.37,15.32,7-nov-2021
+58,Zacatecas,Río Grande,28.37,15.32,7-nov-2021
+58,Zacatecas,Sain Alto,28.37,15.32,7-nov-2021
+58,Zacatecas,Villa de Cos,28.37,15.32,7-nov-2021
+59,San Luis Potosí,Ahualulco,25.58,13.81,7-nov-2021
+59,San Luis Potosí,Armadillo de los Infante,25.58,13.81,7-nov-2021
+59,San Luis Potosí,Cárdenas,25.58,13.81,7-nov-2021
+59,San Luis Potosí,Cerro de San Pedro,25.58,13.81,7-nov-2021
+59,San Luis Potosí,Ciudad Fernández,25.58,13.81,7-nov-2021
+59,San Luis Potosí,Mexquitic de Carmona,25.58,13.81,7-nov-2021
+59,San Luis Potosí,Rayón,25.58,13.81,7-nov-2021
+59,San Luis Potosí,Rioverde,25.58,13.81,7-nov-2021
+59,San Luis Potosí,San Luis Potosí,25.58,13.81,7-nov-2021
+59,San Luis Potosí,San Nicolás Tolentino,25.58,13.81,7-nov-2021
+59,San Luis Potosí,Santa María del Río,25.58,13.81,7-nov-2021
+59,San Luis Potosí,Soledad de Graciano Sánchez,25.58,13.81,7-nov-2021
+59,San Luis Potosí,Tierra Nueva,25.58,13.81,7-nov-2021
+59,San Luis Potosí,Villa de Arriaga,25.58,13.81,7-nov-2021
+59,San Luis Potosí,Villa de Reyes,25.58,13.81,7-nov-2021
+59,San Luis Potosí,Zaragoza,25.58,13.81,7-nov-2021
+60,Hidalgo,Chapulhuacán,26.59,14.36,7-nov-2021
+60,Hidalgo,Pisaflores,26.59,14.36,7-nov-2021
+60,Hidalgo,Tepehuacán de Guerrero,26.59,14.36,7-nov-2021
+60,San Luis Potosí,Alaquines,26.59,14.36,7-nov-2021
+60,San Luis Potosí,Aquismón,26.59,14.36,7-nov-2021
+60,San Luis Potosí,Ciudad del Maíz,26.59,14.36,7-nov-2021
+60,San Luis Potosí,Tancanhuitz,26.59,14.36,7-nov-2021
+60,San Luis Potosí,Ciudad Valles,26.59,14.36,7-nov-2021
+60,San Luis Potosí,Coxcatlán,26.59,14.36,7-nov-2021
+60,San Luis Potosí,Ebano,26.59,14.36,7-nov-2021
+60,San Luis Potosí,Huehuetlán,26.59,14.36,7-nov-2021
+60,San Luis Potosí,Lagunillas,26.59,14.36,7-nov-2021
+60,San Luis Potosí,San Antonio,26.59,14.36,7-nov-2021
+60,San Luis Potosí,San Ciro de Acosta,26.59,14.36,7-nov-2021
+60,San Luis Potosí,San Martín Chalchicuautla,26.59,14.36,7-nov-2021
+60,San Luis Potosí,Santa Catarina,26.59,14.36,7-nov-2021
+60,San Luis Potosí,San Vicente Tancuayalab,26.59,14.36,7-nov-2021
+60,San Luis Potosí,Tamasopo,26.59,14.36,7-nov-2021
+60,San Luis Potosí,Tamazunchale,26.59,14.36,7-nov-2021
+60,San Luis Potosí,Tampacán,26.59,14.36,7-nov-2021
+60,San Luis Potosí,Tampamolón Corona,26.59,14.36,7-nov-2021
+60,San Luis Potosí,Tamuín,26.59,14.36,7-nov-2021
+60,San Luis Potosí,Tanlajás,26.59,14.36,7-nov-2021
+60,San Luis Potosí,Tanquián de Escobedo,26.59,14.36,7-nov-2021
+60,San Luis Potosí,Axtla de Terrazas,26.59,14.36,7-nov-2021
+60,San Luis Potosí,Xilitla,26.59,14.36,7-nov-2021
+60,San Luis Potosí,Matlapa,26.59,14.36,7-nov-2021
+61,San Luis Potosí,Cerritos,28.02,15.13,7-nov-2021
+61,San Luis Potosí,Charcas,28.02,15.13,7-nov-2021
+61,San Luis Potosí,Guadalcázar,28.02,15.13,7-nov-2021
+61,San Luis Potosí,Moctezuma,28.02,15.13,7-nov-2021
+61,San Luis Potosí,Salinas,28.02,15.13,7-nov-2021
+61,San Luis Potosí,Santo Domingo,28.02,15.13,7-nov-2021
+61,San Luis Potosí,Venado,28.02,15.13,7-nov-2021
+61,San Luis Potosí,Villa de Ramos,28.02,15.13,7-nov-2021
+61,San Luis Potosí,Villa Hidalgo,28.02,15.13,7-nov-2021
+61,San Luis Potosí,Villa Juárez,28.02,15.13,7-nov-2021
+61,San Luis Potosí,Villa de Arista,28.02,15.13,7-nov-2021
+62,San Luis Potosí,El Naranjo,26.42,14.27,7-nov-2021
+62,Tamaulipas,Antiguo Morelos,26.42,14.27,7-nov-2021
+62,Tamaulipas,Gómez Farías,26.42,14.27,7-nov-2021
+62,Tamaulipas,El Mante,26.42,14.27,7-nov-2021
+62,Tamaulipas,Nuevo Morelos,26.42,14.27,7-nov-2021
+62,Tamaulipas,Ocampo,26.42,14.27,7-nov-2021
+62,Tamaulipas,Palmillas,26.42,14.27,7-nov-2021
+62,Tamaulipas,Tula,26.42,14.27,7-nov-2021
+62,Tamaulipas,Xicoténcatl,26.42,14.27,7-nov-2021
+63,Aguascalientes,Aguascalientes,24.61,13.29,7-nov-2021
+63,Aguascalientes,Asientos,24.61,13.29,7-nov-2021
+63,Aguascalientes,Calvillo,24.61,13.29,7-nov-2021
+63,Aguascalientes,Cosío,24.61,13.29,7-nov-2021
+63,Aguascalientes,Jesús María,24.61,13.29,7-nov-2021
+63,Aguascalientes,Pabellón de Arteaga,24.61,13.29,7-nov-2021
+63,Aguascalientes,Rincón de Romos,24.61,13.29,7-nov-2021
+63,Aguascalientes,San José de Gracia,24.61,13.29,7-nov-2021
+63,Aguascalientes,Tepezalá,24.61,13.29,7-nov-2021
+63,Aguascalientes,El Llano,24.61,13.29,7-nov-2021
+63,Aguascalientes,San Francisco de los Romo,24.61,13.29,7-nov-2021
+63,Jalisco,Ojuelos de Jalisco,24.61,13.29,7-nov-2021
+63,Zacatecas,Apozol,24.61,13.29,7-nov-2021
+63,Zacatecas,El Plateado de Joaquín Amaro,24.61,13.29,7-nov-2021
+63,Zacatecas,General Pánfilo Natera,24.61,13.29,7-nov-2021
+63,Zacatecas,Huanusco,24.61,13.29,7-nov-2021
+63,Zacatecas,Jalpa,24.61,13.29,7-nov-2021
+63,Zacatecas,Juchipila,24.61,13.29,7-nov-2021
+63,Zacatecas,Loreto,24.61,13.29,7-nov-2021
+63,Zacatecas,Luis Moya,24.61,13.29,7-nov-2021
+63,Zacatecas,Mezquital del Oro,24.61,13.29,7-nov-2021
+63,Zacatecas,Moyahua de Estrada,24.61,13.29,7-nov-2021
+63,Zacatecas,Noria de Ángeles,24.61,13.29,7-nov-2021
+63,Zacatecas,Ojocaliente,24.61,13.29,7-nov-2021
+63,Zacatecas,Pinos,24.61,13.29,7-nov-2021
+63,Zacatecas,Tabasco,24.61,13.29,7-nov-2021
+63,Zacatecas,Villa García,24.61,13.29,7-nov-2021
+63,Zacatecas,Villa González Ortega,24.61,13.29,7-nov-2021
+63,Zacatecas,Villa Hidalgo,24.61,13.29,7-nov-2021
+63,Zacatecas,Trancoso,24.61,13.29,7-nov-2021
+64,Jalisco,Arandas,26.21,14.15,7-nov-2021
+64,Jalisco,Encarnación de Díaz,26.21,14.15,7-nov-2021
+64,Jalisco,Jalostotitlán,26.21,14.15,7-nov-2021
+64,Jalisco,Jesús María,26.21,14.15,7-nov-2021
+64,Jalisco,Lagos de Moreno,26.21,14.15,7-nov-2021
+64,Jalisco,San Juan de los Lagos,26.21,14.15,7-nov-2021
+64,Jalisco,San Julián,26.21,14.15,7-nov-2021
+64,Jalisco,San Miguel el Alto,26.21,14.15,7-nov-2021
+64,Jalisco,Teocaltiche,26.21,14.15,7-nov-2021
+64,Jalisco,Villa Hidalgo,26.21,14.15,7-nov-2021
+64,Jalisco,San Ignacio Cerro Gordo,26.21,14.15,7-nov-2021
+64,Zacatecas,Apulco,26.21,14.15,7-nov-2021
+64,Zacatecas,Nochistlán de Mejía,26.21,14.15,7-nov-2021
+65,Jalisco,Acatic,26.37,14.24,7-nov-2021
+65,Jalisco,Cuquío,26.37,14.24,7-nov-2021
+65,Jalisco,Mexticacán,26.37,14.24,7-nov-2021
+65,Jalisco,Tepatitlán de Morelos,26.37,14.24,7-nov-2021
+65,Jalisco,Valle de Guadalupe,26.37,14.24,7-nov-2021
+65,Jalisco,Cañadas de Obregón,26.37,14.24,7-nov-2021
+65,Jalisco,Yahualica de González Gallo,26.37,14.24,7-nov-2021
+66,Jalisco,Ayotlán,25.06,13.53,7-nov-2021
+66,Jalisco,La Barca,25.06,13.53,7-nov-2021
+66,Jalisco,Degollado,25.06,13.53,7-nov-2021
+66,Jalisco,Jamay,25.06,13.53,7-nov-2021
+66,Jalisco,Santa María del Oro,25.06,13.53,7-nov-2021
+66,Jalisco,Quitupan,25.06,13.53,7-nov-2021
+66,Jalisco,Valle de Juárez,25.06,13.53,7-nov-2021
+66,Michoacán de Ocampo,Briseñas,25.06,13.53,7-nov-2021
+66,Michoacán de Ocampo,Cotija,25.06,13.53,7-nov-2021
+66,Michoacán de Ocampo,Charapan,25.06,13.53,7-nov-2021
+66,Michoacán de Ocampo,Chavinda,25.06,13.53,7-nov-2021
+66,Michoacán de Ocampo,Cherán,25.06,13.53,7-nov-2021
+66,Michoacán de Ocampo,Chilchota,25.06,13.53,7-nov-2021
+66,Michoacán de Ocampo,Ecuandureo,25.06,13.53,7-nov-2021
+66,Michoacán de Ocampo,Ixtlán,25.06,13.53,7-nov-2021
+66,Michoacán de Ocampo,Jacona,25.06,13.53,7-nov-2021
+66,Michoacán de Ocampo,Jiquilpan,25.06,13.53,7-nov-2021
+66,Michoacán de Ocampo,Marcos Castellanos,25.06,13.53,7-nov-2021
+66,Michoacán de Ocampo,Nahuatzen,25.06,13.53,7-nov-2021
+66,Michoacán de Ocampo,Pajacuarán,25.06,13.53,7-nov-2021
+66,Michoacán de Ocampo,Paracho,25.06,13.53,7-nov-2021
+66,Michoacán de Ocampo,Purépero,25.06,13.53,7-nov-2021
+66,Michoacán de Ocampo,Cojumatlán de Régules,25.06,13.53,7-nov-2021
+66,Michoacán de Ocampo,Sahuayo,25.06,13.53,7-nov-2021
+66,Michoacán de Ocampo,Tangamandapio,25.06,13.53,7-nov-2021
+66,Michoacán de Ocampo,Tangancícuaro,25.06,13.53,7-nov-2021
+66,Michoacán de Ocampo,Tanhuato,25.06,13.53,7-nov-2021
+66,Michoacán de Ocampo,Tingüindín,25.06,13.53,7-nov-2021
+66,Michoacán de Ocampo,Tlazazalca,25.06,13.53,7-nov-2021
+66,Michoacán de Ocampo,Tocumbo,25.06,13.53,7-nov-2021
+66,Michoacán de Ocampo,Venustiano Carranza,25.06,13.53,7-nov-2021
+66,Michoacán de Ocampo,Villamar,25.06,13.53,7-nov-2021
+66,Michoacán de Ocampo,Vista Hermosa,25.06,13.53,7-nov-2021
+66,Michoacán de Ocampo,Zacapu,25.06,13.53,7-nov-2021
+66,Michoacán de Ocampo,Zamora,25.06,13.53,7-nov-2021
+67,Guanajuato,Manuel Doblado,24.65,13.31,7-nov-2021
+67,Guanajuato,Guanajuato,24.65,13.31,7-nov-2021
+67,Guanajuato,León,24.65,13.31,7-nov-2021
+67,Guanajuato,Purísima del Rincón,24.65,13.31,7-nov-2021
+67,Guanajuato,Romita,24.65,13.31,7-nov-2021
+67,Guanajuato,San Francisco del Rincón,24.65,13.31,7-nov-2021
+67,Guanajuato,Silao de la Victoria,24.65,13.31,7-nov-2021
+67,Jalisco,San Diego de Alejandría,24.65,13.31,7-nov-2021
+67,Jalisco,Unión de San Antonio,24.65,13.31,7-nov-2021
+68,Guanajuato,Abasolo,24.83,13.41,7-nov-2021
+68,Guanajuato,Cuerámaro,24.83,13.41,7-nov-2021
+68,Guanajuato,Huanímaro,24.83,13.41,7-nov-2021
+68,Guanajuato,Irapuato,24.83,13.41,7-nov-2021
+68,Guanajuato,Pénjamo,24.83,13.41,7-nov-2021
+68,Guanajuato,Pueblo Nuevo,24.83,13.41,7-nov-2021
+68,Guanajuato,Salamanca,24.83,13.41,7-nov-2021
+68,Michoacán de Ocampo,Angamacutiro,24.83,13.41,7-nov-2021
+68,Michoacán de Ocampo,Churintzio,24.83,13.41,7-nov-2021
+68,Michoacán de Ocampo,Jiménez,24.83,13.41,7-nov-2021
+68,Michoacán de Ocampo,Numarán,24.83,13.41,7-nov-2021
+68,Michoacán de Ocampo,Panindícuaro,24.83,13.41,7-nov-2021
+68,Michoacán de Ocampo,Penjamillo,24.83,13.41,7-nov-2021
+68,Michoacán de Ocampo,La Piedad,24.83,13.41,7-nov-2021
+68,Michoacán de Ocampo,Yurécuaro,24.83,13.41,7-nov-2021
+68,Michoacán de Ocampo,Zináparo,24.83,13.41,7-nov-2021
+68,Michoacán de Ocampo,José Sixto Verduzco,24.83,13.41,7-nov-2021
+69,Guanajuato,Cortazar,24.86,13.42,7-nov-2021
+69,Guanajuato,Jaral del Progreso,24.86,13.42,7-nov-2021
+69,Guanajuato,Moroleón,24.86,13.42,7-nov-2021
+69,Guanajuato,Santa Cruz de Juventino Rosas,24.86,13.42,7-nov-2021
+69,Guanajuato,Uriangato,24.86,13.42,7-nov-2021
+69,Guanajuato,Valle de Santiago,24.86,13.42,7-nov-2021
+69,Guanajuato,Villagrán,24.86,13.42,7-nov-2021
+69,Guanajuato,Yuriria,24.86,13.42,7-nov-2021
+69,Michoacán de Ocampo,Cuitzeo,24.86,13.42,7-nov-2021
+70,Guanajuato,Acámbaro,24.56,13.26,7-nov-2021
+70,Guanajuato,Apaseo el Alto,24.56,13.26,7-nov-2021
+70,Guanajuato,Apaseo el Grande,24.56,13.26,7-nov-2021
+70,Guanajuato,Celaya,24.56,13.26,7-nov-2021
+70,Guanajuato,Comonfort,24.56,13.26,7-nov-2021
+70,Guanajuato,Coroneo,24.56,13.26,7-nov-2021
+70,Guanajuato,Jerécuaro,24.56,13.26,7-nov-2021
+70,Guanajuato,Salvatierra,24.56,13.26,7-nov-2021
+70,Guanajuato,Santiago Maravatío,24.56,13.26,7-nov-2021
+70,Guanajuato,Tarandacuao,24.56,13.26,7-nov-2021
+70,Guanajuato,Tarimoro,24.56,13.26,7-nov-2021
+70,Michoacán de Ocampo,Epitacio Huerta,24.56,13.26,7-nov-2021
+71,Michoacán de Ocampo,Acuitzio,24.02,12.97,7-nov-2021
+71,Michoacán de Ocampo,Álvaro Obregón,24.02,12.97,7-nov-2021
+71,Michoacán de Ocampo,Coeneo,24.02,12.97,7-nov-2021
+71,Michoacán de Ocampo,Copándaro,24.02,12.97,7-nov-2021
+71,Michoacán de Ocampo,Charo,24.02,12.97,7-nov-2021
+71,Michoacán de Ocampo,Chucándiro,24.02,12.97,7-nov-2021
+71,Michoacán de Ocampo,Erongarícuaro,24.02,12.97,7-nov-2021
+71,Michoacán de Ocampo,Huandacareo,24.02,12.97,7-nov-2021
+71,Michoacán de Ocampo,Huaniqueo,24.02,12.97,7-nov-2021
+71,Michoacán de Ocampo,Huiramba,24.02,12.97,7-nov-2021
+71,Michoacán de Ocampo,Indaparapeo,24.02,12.97,7-nov-2021
+71,Michoacán de Ocampo,Lagunillas,24.02,12.97,7-nov-2021
+71,Michoacán de Ocampo,Madero,24.02,12.97,7-nov-2021
+71,Michoacán de Ocampo,Morelia,24.02,12.97,7-nov-2021
+71,Michoacán de Ocampo,Morelos,24.02,12.97,7-nov-2021
+71,Michoacán de Ocampo,Pátzcuaro,24.02,12.97,7-nov-2021
+71,Michoacán de Ocampo,Puruándiro,24.02,12.97,7-nov-2021
+71,Michoacán de Ocampo,Queréndaro,24.02,12.97,7-nov-2021
+71,Michoacán de Ocampo,Quiroga,24.02,12.97,7-nov-2021
+71,Michoacán de Ocampo,Santa Ana Maya,24.02,12.97,7-nov-2021
+71,Michoacán de Ocampo,Tarímbaro,24.02,12.97,7-nov-2021
+71,Michoacán de Ocampo,Tzintzuntzan,24.02,12.97,7-nov-2021
+71,Michoacán de Ocampo,Tzitzio,24.02,12.97,7-nov-2021
+71,Michoacán de Ocampo,Zinapécuaro,24.02,12.97,7-nov-2021
+72,Guanajuato,San Miguel de Allende,25.02,13.51,7-nov-2021
+72,Guanajuato,Atarjea,25.02,13.51,7-nov-2021
+72,Guanajuato,Doctor Mora,25.02,13.51,7-nov-2021
+72,Guanajuato,San Diego de la Unión,25.02,13.51,7-nov-2021
+72,Guanajuato,San José Iturbide,25.02,13.51,7-nov-2021
+72,Guanajuato,San Luis de la Paz,25.02,13.51,7-nov-2021
+72,Guanajuato,Santa Catarina,25.02,13.51,7-nov-2021
+72,Guanajuato,Tierra Blanca,25.02,13.51,7-nov-2021
+72,Guanajuato,Victoria,25.02,13.51,7-nov-2021
+72,Guanajuato,Xichú,25.02,13.51,7-nov-2021
+73,Guanajuato,Ocampo,26.29,14.19,7-nov-2021
+73,Guanajuato,San Felipe,26.29,14.19,7-nov-2021
+74,México,Almoloya de Alquisiras,24.27,13.11,7-nov-2021
+74,México,Amanalco,24.27,13.11,7-nov-2021
+74,México,Amatepec,24.27,13.11,7-nov-2021
+74,México,Coatepec Harinas,24.27,13.11,7-nov-2021
+74,México,Donato Guerra,24.27,13.11,7-nov-2021
+74,México,Ixtapan de la Sal,24.27,13.11,7-nov-2021
+74,México,Ixtapan del Oro,24.27,13.11,7-nov-2021
+74,México,Joquicingo,24.27,13.11,7-nov-2021
+74,México,Malinalco,24.27,13.11,7-nov-2021
+74,México,Ocuilan,24.27,13.11,7-nov-2021
+74,México,Otzoloapan,24.27,13.11,7-nov-2021
+74,México,San Simón de Guerrero,24.27,13.11,7-nov-2021
+74,México,Santo Tomás,24.27,13.11,7-nov-2021
+74,México,Sultepec,24.27,13.11,7-nov-2021
+74,México,Tejupilco,24.27,13.11,7-nov-2021
+74,México,Temascaltepec,24.27,13.11,7-nov-2021
+74,México,Tenancingo,24.27,13.11,7-nov-2021
+74,México,Texcaltitlán,24.27,13.11,7-nov-2021
+74,México,Tlatlaya,24.27,13.11,7-nov-2021
+74,México,Tonatico,24.27,13.11,7-nov-2021
+74,México,Valle de Bravo,24.27,13.11,7-nov-2021
+74,México,Villa Guerrero,24.27,13.11,7-nov-2021
+74,México,Zacazonapan,24.27,13.11,7-nov-2021
+74,México,Zacualpan,24.27,13.11,7-nov-2021
+74,México,Zumpahuacán,24.27,13.11,7-nov-2021
+74,México,Luvianos,24.27,13.11,7-nov-2021
+74,Michoacán de Ocampo,Angangueo,24.27,13.11,7-nov-2021
+74,Michoacán de Ocampo,Aporo,24.27,13.11,7-nov-2021
+74,Michoacán de Ocampo,Contepec,24.27,13.11,7-nov-2021
+74,Michoacán de Ocampo,Hidalgo,24.27,13.11,7-nov-2021
+74,Michoacán de Ocampo,Irimbo,24.27,13.11,7-nov-2021
+74,Michoacán de Ocampo,Juárez,24.27,13.11,7-nov-2021
+74,Michoacán de Ocampo,Jungapeo,24.27,13.11,7-nov-2021
+74,Michoacán de Ocampo,Maravatío,24.27,13.11,7-nov-2021
+74,Michoacán de Ocampo,Ocampo,24.27,13.11,7-nov-2021
+74,Michoacán de Ocampo,Senguio,24.27,13.11,7-nov-2021
+74,Michoacán de Ocampo,Susupuato,24.27,13.11,7-nov-2021
+74,Michoacán de Ocampo,Tlalpujahua,24.27,13.11,7-nov-2021
+74,Michoacán de Ocampo,Tuxpan,24.27,13.11,7-nov-2021
+74,Michoacán de Ocampo,Tuzantla,24.27,13.11,7-nov-2021
+74,Michoacán de Ocampo,Zitácuaro,24.27,13.11,7-nov-2021
+75,Michoacán de Ocampo,Ario,25.11,13.56,7-nov-2021
+75,Michoacán de Ocampo,Gabriel Zamora,25.11,13.56,7-nov-2021
+75,Michoacán de Ocampo,Nuevo Parangaricutiro,25.11,13.56,7-nov-2021
+75,Michoacán de Ocampo,Nuevo Urecho,25.11,13.56,7-nov-2021
+75,Michoacán de Ocampo,Peribán,25.11,13.56,7-nov-2021
+75,Michoacán de Ocampo,Los Reyes,25.11,13.56,7-nov-2021
+75,Michoacán de Ocampo,Salvador Escalante,25.11,13.56,7-nov-2021
+75,Michoacán de Ocampo,Tacámbaro,25.11,13.56,7-nov-2021
+75,Michoacán de Ocampo,Taretan,25.11,13.56,7-nov-2021
+75,Michoacán de Ocampo,Tingambato,25.11,13.56,7-nov-2021
+75,Michoacán de Ocampo,Uruapan,25.11,13.56,7-nov-2021
+75,Michoacán de Ocampo,Ziracuaretiro,25.11,13.56,7-nov-2021
+76,Michoacán de Ocampo,Aguililla,27.08,14.62,7-nov-2021
+76,Michoacán de Ocampo,Apatzingán,27.08,14.62,7-nov-2021
+76,Michoacán de Ocampo,Buenavista,27.08,14.62,7-nov-2021
+76,Michoacán de Ocampo,Coalcomán de Vázquez Pallares,27.08,14.62,7-nov-2021
+76,Michoacán de Ocampo,Churumuco,27.08,14.62,7-nov-2021
+76,Michoacán de Ocampo,La Huacana,27.08,14.62,7-nov-2021
+76,Michoacán de Ocampo,Múgica,27.08,14.62,7-nov-2021
+76,Michoacán de Ocampo,Parácuaro,27.08,14.62,7-nov-2021
+76,Michoacán de Ocampo,Tancítaro,27.08,14.62,7-nov-2021
+76,Michoacán de Ocampo,Tepalcatepec,27.08,14.62,7-nov-2021
+76,Michoacán de Ocampo,Tumbiscatío,27.08,14.62,7-nov-2021
+76,Michoacán de Ocampo,Turicato,27.08,14.62,7-nov-2021
+77,Hidalgo,Huichapan,26.81,14.48,7-nov-2021
+77,Hidalgo,Nopala de Villagrán,26.81,14.48,7-nov-2021
+77,Hidalgo,Tecozautla,26.81,14.48,7-nov-2021
+77,Querétaro,Amealco de Bonfil,26.81,14.48,7-nov-2021
+77,Querétaro,Cadereyta de Montes,26.81,14.48,7-nov-2021
+77,Querétaro,Ezequiel Montes,26.81,14.48,7-nov-2021
+77,Querétaro,Peñamiller,26.81,14.48,7-nov-2021
+77,Querétaro,San Joaquín,26.81,14.48,7-nov-2021
+77,Querétaro,San Juan del Río,26.81,14.48,7-nov-2021
+77,Querétaro,Tequisquiapan,26.81,14.48,7-nov-2021
+77,Querétaro,Tolimán,26.81,14.48,7-nov-2021
+78,Querétaro,Colón,25.13,13.57,7-nov-2021
+78,Querétaro,Corregidora,25.13,13.57,7-nov-2021
+78,Querétaro,Huimilpan,25.13,13.57,7-nov-2021
+78,Querétaro,El Marqués,25.13,13.57,7-nov-2021
+78,Querétaro,Pedro Escobedo,25.13,13.57,7-nov-2021
+78,Querétaro,Querétaro,25.13,13.57,7-nov-2021
+79,Colima,Armería,26.96,14.56,7-nov-2021
+79,Colima,Manzanillo,26.96,14.56,7-nov-2021
+79,Colima,Minatitlán,26.96,14.56,7-nov-2021
+79,Colima,Tecomán,26.96,14.56,7-nov-2021
+79,Jalisco,Casimiro Castillo,26.96,14.56,7-nov-2021
+79,Jalisco,Cihuatlán,26.96,14.56,7-nov-2021
+79,Jalisco,Cuautitlán de García Barragán,26.96,14.56,7-nov-2021
+79,Jalisco,La Huerta,26.96,14.56,7-nov-2021
+79,Jalisco,Villa Purificación,26.96,14.56,7-nov-2021
+79,Michoacán de Ocampo,Aquila,26.96,14.56,7-nov-2021
+79,Michoacán de Ocampo,Coahuayana,26.96,14.56,7-nov-2021
+79,Michoacán de Ocampo,Chinicuila,26.96,14.56,7-nov-2021
+80,Guerrero,Coahuayutla de José María Izazaga,26.74,14.44,7-nov-2021
+80,Guerrero,Zihuatanejo de Azueta,26.74,14.44,7-nov-2021
+80,Guerrero,Petatlán,26.74,14.44,7-nov-2021
+80,Guerrero,La Unión de Isidoro Montes de Oca,26.74,14.44,7-nov-2021
+80,Michoacán de Ocampo,Arteaga,26.74,14.44,7-nov-2021
+80,Michoacán de Ocampo,Lázaro Cárdenas,26.74,14.44,7-nov-2021
+81,Michoacán de Ocampo,Carácuaro,27.14,14.65,7-nov-2021
+81,Michoacán de Ocampo,Huetamo,27.14,14.65,7-nov-2021
+81,Michoacán de Ocampo,Nocupétaro,27.14,14.65,7-nov-2021
+81,Michoacán de Ocampo,San Lucas,27.14,14.65,7-nov-2021
+81,Michoacán de Ocampo,Tiquicheo de Nicolás Romero,27.14,14.65,7-nov-2021
+82,Querétaro,Pinal de Amoles,26.70,14.42,7-nov-2021
+82,Querétaro,Arroyo Seco,26.70,14.42,7-nov-2021
+82,Querétaro,Jalpan de Serra,26.70,14.42,7-nov-2021
+82,Querétaro,Landa de Matamoros,26.70,14.42,7-nov-2021
+83,Jalisco,Acatlán de Juárez,26.49,14.31,7-nov-2021
+83,Jalisco,Ahualulco de Mercado,26.49,14.31,7-nov-2021
+83,Jalisco,Amatitán,26.49,14.31,7-nov-2021
+83,Jalisco,Ameca,26.49,14.31,7-nov-2021
+83,Jalisco,San Juanito de Escobedo,26.49,14.31,7-nov-2021
+83,Jalisco,Atengo,26.49,14.31,7-nov-2021
+83,Jalisco,Ayutla,26.49,14.31,7-nov-2021
+83,Jalisco,Cocula,26.49,14.31,7-nov-2021
+83,Jalisco,Cuautla,26.49,14.31,7-nov-2021
+83,Jalisco,Etzatlán,26.49,14.31,7-nov-2021
+83,Jalisco,Hostotipaquillo,26.49,14.31,7-nov-2021
+83,Jalisco,Juchitlán,26.49,14.31,7-nov-2021
+83,Jalisco,Magdalena,26.49,14.31,7-nov-2021
+83,Jalisco,San Marcos,26.49,14.31,7-nov-2021
+83,Jalisco,San Martín Hidalgo,26.49,14.31,7-nov-2021
+83,Jalisco,Tecolotlán,26.49,14.31,7-nov-2021
+83,Jalisco,Tenamaxtlán,26.49,14.31,7-nov-2021
+83,Jalisco,Tequila,26.49,14.31,7-nov-2021
+83,Jalisco,Teuchitlán,26.49,14.31,7-nov-2021
+83,Jalisco,Unión de Tula,26.49,14.31,7-nov-2021
+83,Jalisco,Villa Corona,26.49,14.31,7-nov-2021
+84,Jalisco,El Arenal,24.38,13.17,7-nov-2021
+84,Jalisco,Guadalajara,24.38,13.17,7-nov-2021
+84,Jalisco,Ixtlahuacán del Río,24.38,13.17,7-nov-2021
+84,Jalisco,Juanacatlán,24.38,13.17,7-nov-2021
+84,Jalisco,El Salto,24.38,13.17,7-nov-2021
+84,Jalisco,San Cristóbal de la Barranca,24.38,13.17,7-nov-2021
+84,Jalisco,Tala,24.38,13.17,7-nov-2021
+84,Jalisco,Tlajomulco de Zúñiga,24.38,13.17,7-nov-2021
+84,Jalisco,San Pedro Tlaquepaque,24.38,13.17,7-nov-2021
+84,Jalisco,Tonalá,24.38,13.17,7-nov-2021
+84,Jalisco,Zapopan,24.38,13.17,7-nov-2021
+84,Jalisco,Zapotlanejo,24.38,13.17,7-nov-2021
+85,Jalisco,Amacueca,26.44,14.28,7-nov-2021
+85,Jalisco,Atemajac de Brizuela,26.44,14.28,7-nov-2021
+85,Jalisco,Atoyac,26.44,14.28,7-nov-2021
+85,Jalisco,Autlán de Navarro,26.44,14.28,7-nov-2021
+85,Jalisco,Zapotlán el Grande,26.44,14.28,7-nov-2021
+85,Jalisco,Concepción de Buenos Aires,26.44,14.28,7-nov-2021
+85,Jalisco,Chiquilistlán,26.44,14.28,7-nov-2021
+85,Jalisco,Ejutla,26.44,14.28,7-nov-2021
+85,Jalisco,El Grullo,26.44,14.28,7-nov-2021
+85,Jalisco,El Limón,26.44,14.28,7-nov-2021
+85,Jalisco,La Manzanilla de la Paz,26.44,14.28,7-nov-2021
+85,Jalisco,Mazamitla,26.44,14.28,7-nov-2021
+85,Jalisco,Gómez Farías,26.44,14.28,7-nov-2021
+85,Jalisco,Sayula,26.44,14.28,7-nov-2021
+85,Jalisco,Tamazula de Gordiano,26.44,14.28,7-nov-2021
+85,Jalisco,Tapalpa,26.44,14.28,7-nov-2021
+85,Jalisco,Techaluta de Montenegro,26.44,14.28,7-nov-2021
+85,Jalisco,Teocuitatlán de Corona,26.44,14.28,7-nov-2021
+85,Jalisco,Tizapán el Alto,26.44,14.28,7-nov-2021
+85,Jalisco,Tolimán,26.44,14.28,7-nov-2021
+85,Jalisco,Tonaya,26.44,14.28,7-nov-2021
+85,Jalisco,Tuxcacuesco,26.44,14.28,7-nov-2021
+85,Jalisco,Tuxcueca,26.44,14.28,7-nov-2021
+85,Jalisco,San Gabriel,26.44,14.28,7-nov-2021
+85,Jalisco,Zacoalco de Torres,26.44,14.28,7-nov-2021
+85,Jalisco,Zapotiltic,26.44,14.28,7-nov-2021
+85,Jalisco,Zapotitlán de Vadillo,26.44,14.28,7-nov-2021
+86,Jalisco,Atenguillo,27.17,14.67,7-nov-2021
+86,Jalisco,Guachinango,27.17,14.67,7-nov-2021
+86,Jalisco,Mascota,27.17,14.67,7-nov-2021
+86,Jalisco,Mixtlán,27.17,14.67,7-nov-2021
+86,Jalisco,San Sebastián del Oeste,27.17,14.67,7-nov-2021
+86,Jalisco,Talpa de Allende,27.17,14.67,7-nov-2021
+86,Nayarit,Ahuacatlán,27.17,14.67,7-nov-2021
+86,Nayarit,Amatlán de Cañas,27.17,14.67,7-nov-2021
+86,Nayarit,Ixtlán del Río,27.17,14.67,7-nov-2021
+86,Nayarit,Jala,27.17,14.67,7-nov-2021
+86,Nayarit,San Pedro Lagunillas,27.17,14.67,7-nov-2021
+86,Nayarit,La Yesca,27.17,14.67,7-nov-2021
+87,Jalisco,Atotonilco el Alto,27.07,14.62,7-nov-2021
+87,Jalisco,Chapala,27.07,14.62,7-nov-2021
+87,Jalisco,Ixtlahuacán de los Membrillos,27.07,14.62,7-nov-2021
+87,Jalisco,Jocotepec,27.07,14.62,7-nov-2021
+87,Jalisco,Ocotlán,27.07,14.62,7-nov-2021
+87,Jalisco,Poncitlán,27.07,14.62,7-nov-2021
+87,Jalisco,Tototlán,27.07,14.62,7-nov-2021
+87,Jalisco,Zapotlán del Rey,27.07,14.62,7-nov-2021
+88,Colima,Colima,27.06,14.61,7-nov-2021
+88,Colima,Comala,27.06,14.61,7-nov-2021
+88,Colima,Coquimatlán,27.06,14.61,7-nov-2021
+88,Colima,Cuauhtémoc,27.06,14.61,7-nov-2021
+88,Colima,Ixtlahuacán,27.06,14.61,7-nov-2021
+88,Colima,Villa de Álvarez,27.06,14.61,7-nov-2021
+88,Jalisco,Jilotlán de los Dolores,27.06,14.61,7-nov-2021
+88,Jalisco,Pihuamo,27.06,14.61,7-nov-2021
+88,Jalisco,Tecalitlán,27.06,14.61,7-nov-2021
+88,Jalisco,Tonila,27.06,14.61,7-nov-2021
+88,Jalisco,Tuxpan,27.06,14.61,7-nov-2021
+89,Jalisco,Cabo Corrientes,27.62,14.91,7-nov-2021
+89,Jalisco,Tomatlán,27.62,14.91,7-nov-2021
+90,Jalisco,Puerto Vallarta,24.76,13.37,7-nov-2021
+90,Nayarit,Compostela,24.76,13.37,7-nov-2021
+90,Nayarit,Bahía de Banderas,24.76,13.37,7-nov-2021
+91,Nayarit,Xalisco,24.59,13.28,7-nov-2021
+91,Nayarit,Del Nayar,24.59,13.28,7-nov-2021
+91,Nayarit,Ruíz,24.59,13.28,7-nov-2021
+91,Nayarit,San Blas,24.59,13.28,7-nov-2021
+91,Nayarit,Santa María del Oro,24.59,13.28,7-nov-2021
+91,Nayarit,Santiago Ixcuintla,24.59,13.28,7-nov-2021
+91,Nayarit,Tepic,24.59,13.28,7-nov-2021
+91,Nayarit,Tuxpan,24.59,13.28,7-nov-2021
+92,Ciudad de México,Azcapotzalco,24.21,13.07,7-nov-2021
+92,Ciudad de México,Coyoacán,24.21,13.07,7-nov-2021
+92,Ciudad de México,Cuajimalpa de Morelos,24.21,13.07,7-nov-2021
+92,Ciudad de México,Gustavo A. Madero,24.21,13.07,7-nov-2021
+92,Ciudad de México,Iztacalco,24.21,13.07,7-nov-2021
+92,Ciudad de México,Iztapalapa,24.21,13.07,7-nov-2021
+92,Ciudad de México,La Magdalena Contreras,24.21,13.07,7-nov-2021
+92,Ciudad de México,Milpa Alta,24.21,13.07,7-nov-2021
+92,Ciudad de México,Álvaro Obregón,24.21,13.07,7-nov-2021
+92,Ciudad de México,Tláhuac,24.21,13.07,7-nov-2021
+92,Ciudad de México,Tlalpan,24.21,13.07,7-nov-2021
+92,Ciudad de México,Xochimilco,24.21,13.07,7-nov-2021
+92,Ciudad de México,Benito Juárez,24.21,13.07,7-nov-2021
+92,Ciudad de México,Cuauhtémoc,24.21,13.07,7-nov-2021
+92,Ciudad de México,Miguel Hidalgo,24.21,13.07,7-nov-2021
+92,Ciudad de México,Venustiano Carranza,24.21,13.07,7-nov-2021
+92,Hidalgo,Villa de Tezontepec,24.21,13.07,7-nov-2021
+92,Hidalgo,Tizayuca,24.21,13.07,7-nov-2021
+92,Hidalgo,Tolcayuca,24.21,13.07,7-nov-2021
+92,Hidalgo,Zapotlán de Juárez,24.21,13.07,7-nov-2021
+92,México,Acolman,24.21,13.07,7-nov-2021
+92,México,Amecameca,24.21,13.07,7-nov-2021
+92,México,Apaxco,24.21,13.07,7-nov-2021
+92,México,Atenco,24.21,13.07,7-nov-2021
+92,México,Atizapán de Zaragoza,24.21,13.07,7-nov-2021
+92,México,Atlautla,24.21,13.07,7-nov-2021
+92,México,Axapusco,24.21,13.07,7-nov-2021
+92,México,Ayapango,24.21,13.07,7-nov-2021
+92,México,Coacalco de Berriozábal,24.21,13.07,7-nov-2021
+92,México,Cocotitlán,24.21,13.07,7-nov-2021
+92,México,Coyotepec,24.21,13.07,7-nov-2021
+92,México,Cuautitlán,24.21,13.07,7-nov-2021
+92,México,Chalco,24.21,13.07,7-nov-2021
+92,México,Chiautla,24.21,13.07,7-nov-2021
+92,México,Chicoloapan,24.21,13.07,7-nov-2021
+92,México,Chiconcuac,24.21,13.07,7-nov-2021
+92,México,Chimalhuacán,24.21,13.07,7-nov-2021
+92,México,Ecatepec de Morelos,24.21,13.07,7-nov-2021
+92,México,Ecatzingo,24.21,13.07,7-nov-2021
+92,México,Huehuetoca,24.21,13.07,7-nov-2021
+92,México,Hueypoxtla,24.21,13.07,7-nov-2021
+92,México,Huixquilucan,24.21,13.07,7-nov-2021
+92,México,Ixtapaluca,24.21,13.07,7-nov-2021
+92,México,Jaltenco,24.21,13.07,7-nov-2021
+92,México,Juchitepec,24.21,13.07,7-nov-2021
+92,México,Melchor Ocampo,24.21,13.07,7-nov-2021
+92,México,Naucalpan de Juárez,24.21,13.07,7-nov-2021
+92,México,Nezahualcóyotl,24.21,13.07,7-nov-2021
+92,México,Nextlalpan,24.21,13.07,7-nov-2021
+92,México,Nicolás Romero,24.21,13.07,7-nov-2021
+92,México,Nopaltepec,24.21,13.07,7-nov-2021
+92,México,Otumba,24.21,13.07,7-nov-2021
+92,México,Ozumba,24.21,13.07,7-nov-2021
+92,México,Papalotla,24.21,13.07,7-nov-2021
+92,México,La Paz,24.21,13.07,7-nov-2021
+92,México,San Martín de las Pirámides,24.21,13.07,7-nov-2021
+92,México,Tecámac,24.21,13.07,7-nov-2021
+92,México,Temamatla,24.21,13.07,7-nov-2021
+92,México,Temascalapa,24.21,13.07,7-nov-2021
+92,México,Tenango del Aire,24.21,13.07,7-nov-2021
+92,México,Teoloyucan,24.21,13.07,7-nov-2021
+92,México,Teotihuacán,24.21,13.07,7-nov-2021
+92,México,Tepetlaoxtoc,24.21,13.07,7-nov-2021
+92,México,Tepetlixpa,24.21,13.07,7-nov-2021
+92,México,Tepotzotlán,24.21,13.07,7-nov-2021
+92,México,Tequixquiac,24.21,13.07,7-nov-2021
+92,México,Texcoco,24.21,13.07,7-nov-2021
+92,México,Tezoyuca,24.21,13.07,7-nov-2021
+92,México,Tlalmanalco,24.21,13.07,7-nov-2021
+92,México,Tlalnepantla de Baz,24.21,13.07,7-nov-2021
+92,México,Tultepec,24.21,13.07,7-nov-2021
+92,México,Tultitlán,24.21,13.07,7-nov-2021
+92,México,Zumpango,24.21,13.07,7-nov-2021
+92,México,Cuautitlán Izcalli,24.21,13.07,7-nov-2021
+92,México,Valle de Chalco Solidaridad,24.21,13.07,7-nov-2021
+92,México,Tonanitla,24.21,13.07,7-nov-2021
+93,México,Almoloya de Juárez,23.86,12.88,7-nov-2021
+93,México,Almoloya del Río,23.86,12.88,7-nov-2021
+93,México,Atizapán,23.86,12.88,7-nov-2021
+93,México,Calimaya,23.86,12.88,7-nov-2021
+93,México,Capulhuac,23.86,12.88,7-nov-2021
+93,México,Chapultepec,23.86,12.88,7-nov-2021
+93,México,Isidro Fabela,23.86,12.88,7-nov-2021
+93,México,Ixtlahuaca,23.86,12.88,7-nov-2021
+93,México,Xalatlaco,23.86,12.88,7-nov-2021
+93,México,Jilotzingo,23.86,12.88,7-nov-2021
+93,México,Jiquipilco,23.86,12.88,7-nov-2021
+93,México,Lerma,23.86,12.88,7-nov-2021
+93,México,Metepec,23.86,12.88,7-nov-2021
+93,México,Mexicaltzingo,23.86,12.88,7-nov-2021
+93,México,Ocoyoacac,23.86,12.88,7-nov-2021
+93,México,Otzolotepec,23.86,12.88,7-nov-2021
+93,México,Rayón,23.86,12.88,7-nov-2021
+93,México,San Antonio la Isla,23.86,12.88,7-nov-2021
+93,México,San Felipe del Progreso,23.86,12.88,7-nov-2021
+93,México,San Mateo Atenco,23.86,12.88,7-nov-2021
+93,México,Temoaya,23.86,12.88,7-nov-2021
+93,México,Tenango del Valle,23.86,12.88,7-nov-2021
+93,México,Texcalyacac,23.86,12.88,7-nov-2021
+93,México,Tianguistenco,23.86,12.88,7-nov-2021
+93,México,Toluca,23.86,12.88,7-nov-2021
+93,México,Villa de Allende,23.86,12.88,7-nov-2021
+93,México,Villa Victoria,23.86,12.88,7-nov-2021
+93,México,Xonacatlán,23.86,12.88,7-nov-2021
+93,México,Zinacantepec,23.86,12.88,7-nov-2021
+93,México,San José del Rincón,23.86,12.88,7-nov-2021
+94,Hidalgo,Actopan,23.83,12.87,7-nov-2021
+94,Hidalgo,Alfajayucan,23.83,12.87,7-nov-2021
+94,Hidalgo,El Arenal,23.83,12.87,7-nov-2021
+94,Hidalgo,Cardonal,23.83,12.87,7-nov-2021
+94,Hidalgo,Chapantongo,23.83,12.87,7-nov-2021
+94,Hidalgo,Chilcuautla,23.83,12.87,7-nov-2021
+94,Hidalgo,Francisco I. Madero,23.83,12.87,7-nov-2021
+94,Hidalgo,Ixmiquilpan,23.83,12.87,7-nov-2021
+94,Hidalgo,Mixquiahuala de Juárez,23.83,12.87,7-nov-2021
+94,Hidalgo,Progreso de Obregón,23.83,12.87,7-nov-2021
+94,Hidalgo,San Salvador,23.83,12.87,7-nov-2021
+94,Hidalgo,Santiago de Anaya,23.83,12.87,7-nov-2021
+94,Hidalgo,Tasquillo,23.83,12.87,7-nov-2021
+94,Hidalgo,Tezontepec de Aldama,23.83,12.87,7-nov-2021
+94,México,Acambay de Ruíz Castañeda,23.83,12.87,7-nov-2021
+94,México,Aculco,23.83,12.87,7-nov-2021
+94,México,Atlacomulco,23.83,12.87,7-nov-2021
+94,México,Chapa de Mota,23.83,12.87,7-nov-2021
+94,México,Jilotepec,23.83,12.87,7-nov-2021
+94,México,Jocotitlán,23.83,12.87,7-nov-2021
+94,México,Morelos,23.83,12.87,7-nov-2021
+94,México,El Oro,23.83,12.87,7-nov-2021
+94,México,Polotitlán,23.83,12.87,7-nov-2021
+94,México,Soyaniquilpan de Juárez,23.83,12.87,7-nov-2021
+94,México,Temascalcingo,23.83,12.87,7-nov-2021
+94,México,Timilpan,23.83,12.87,7-nov-2021
+94,México,Villa del Carbón,23.83,12.87,7-nov-2021
+95,Hidalgo,Acatlán,26.40,14.26,7-nov-2021
+95,Hidalgo,Acaxochitlán,26.40,14.26,7-nov-2021
+95,Hidalgo,Agua Blanca de Iturbide,26.40,14.26,7-nov-2021
+95,Hidalgo,Atotonilco el Grande,26.40,14.26,7-nov-2021
+95,Hidalgo,Cuautepec de Hinojosa,26.40,14.26,7-nov-2021
+95,Hidalgo,Huasca de Ocampo,26.40,14.26,7-nov-2021
+95,Hidalgo,Huehuetla,26.40,14.26,7-nov-2021
+95,Hidalgo,Metepec,26.40,14.26,7-nov-2021
+95,Hidalgo,San Bartolo Tutotepec,26.40,14.26,7-nov-2021
+95,Hidalgo,Santiago Tulantepec de Lugo Guerrero,26.40,14.26,7-nov-2021
+95,Hidalgo,Tenango de Doria,26.40,14.26,7-nov-2021
+95,Hidalgo,Tulancingo de Bravo,26.40,14.26,7-nov-2021
+96,Hidalgo,Almoloya,24.33,13.14,7-nov-2021
+96,Hidalgo,Apan,24.33,13.14,7-nov-2021
+96,Hidalgo,Emiliano Zapata,24.33,13.14,7-nov-2021
+96,Hidalgo,Singuilucan,24.33,13.14,7-nov-2021
+96,Hidalgo,Tepeapulco,24.33,13.14,7-nov-2021
+96,Hidalgo,Tlanalapa,24.33,13.14,7-nov-2021
+96,Hidalgo,Zempoala,24.33,13.14,7-nov-2021
+96,Tlaxcala,Calpulalpan,24.33,13.14,7-nov-2021
+96,Tlaxcala,Sanctórum de Lázaro Cárdenas,24.33,13.14,7-nov-2021
+96,Tlaxcala,Nanacamilpa de Mariano Arista,24.33,13.14,7-nov-2021
+96,Tlaxcala,Benito Juárez,24.33,13.14,7-nov-2021
+97,Hidalgo,Atlapexco,25.93,14.00,7-nov-2021
+97,Hidalgo,Huautla,25.93,14.00,7-nov-2021
+97,Hidalgo,Huejutla de Reyes,25.93,14.00,7-nov-2021
+97,Hidalgo,Jaltocán,25.93,14.00,7-nov-2021
+97,Hidalgo,San Felipe Orizatlán,25.93,14.00,7-nov-2021
+97,Veracruz de Ignacio de la Llave,Naranjos Amatlán,25.93,14.00,7-nov-2021
+97,Veracruz de Ignacio de la Llave,Benito Juárez,25.93,14.00,7-nov-2021
+97,Veracruz de Ignacio de la Llave,Cerro Azul,25.93,14.00,7-nov-2021
+97,Veracruz de Ignacio de la Llave,Citlaltépetl,25.93,14.00,7-nov-2021
+97,Veracruz de Ignacio de la Llave,Chalma,25.93,14.00,7-nov-2021
+97,Veracruz de Ignacio de la Llave,Chiconamel,25.93,14.00,7-nov-2021
+97,Veracruz de Ignacio de la Llave,Chicontepec,25.93,14.00,7-nov-2021
+97,Veracruz de Ignacio de la Llave,Chinampa de Gorostiza,25.93,14.00,7-nov-2021
+97,Veracruz de Ignacio de la Llave,Chontla,25.93,14.00,7-nov-2021
+97,Veracruz de Ignacio de la Llave,Huayacocotla,25.93,14.00,7-nov-2021
+97,Veracruz de Ignacio de la Llave,Ilamatlán,25.93,14.00,7-nov-2021
+97,Veracruz de Ignacio de la Llave,Ixcatepec,25.93,14.00,7-nov-2021
+97,Veracruz de Ignacio de la Llave,Ixhuatlán de Madero,25.93,14.00,7-nov-2021
+97,Veracruz de Ignacio de la Llave,Platón Sánchez,25.93,14.00,7-nov-2021
+97,Veracruz de Ignacio de la Llave,Tamalín,25.93,14.00,7-nov-2021
+97,Veracruz de Ignacio de la Llave,Tamiahua,25.93,14.00,7-nov-2021
+97,Veracruz de Ignacio de la Llave,Tancoco,25.93,14.00,7-nov-2021
+97,Veracruz de Ignacio de la Llave,Tantima,25.93,14.00,7-nov-2021
+97,Veracruz de Ignacio de la Llave,Tantoyuca,25.93,14.00,7-nov-2021
+97,Veracruz de Ignacio de la Llave,Álamo Temapache,25.93,14.00,7-nov-2021
+97,Veracruz de Ignacio de la Llave,Tepetzintla,25.93,14.00,7-nov-2021
+97,Veracruz de Ignacio de la Llave,Texcatepec,25.93,14.00,7-nov-2021
+97,Veracruz de Ignacio de la Llave,Tlachichilco,25.93,14.00,7-nov-2021
+97,Veracruz de Ignacio de la Llave,Tuxpan,25.93,14.00,7-nov-2021
+97,Veracruz de Ignacio de la Llave,Zacualpan,25.93,14.00,7-nov-2021
+97,Veracruz de Ignacio de la Llave,Zontecomatlán de López y Fuentes,25.93,14.00,7-nov-2021
+98,Hidalgo,Calnali,26.51,14.31,7-nov-2021
+98,Hidalgo,Eloxochitlán,26.51,14.31,7-nov-2021
+98,Hidalgo,Huazalingo,26.51,14.31,7-nov-2021
+98,Hidalgo,Jacala de Ledezma,26.51,14.31,7-nov-2021
+98,Hidalgo,Juárez Hidalgo,26.51,14.31,7-nov-2021
+98,Hidalgo,Lolotla,26.51,14.31,7-nov-2021
+98,Hidalgo,San Agustín Metzquititlán,26.51,14.31,7-nov-2021
+98,Hidalgo,Metztitlán,26.51,14.31,7-nov-2021
+98,Hidalgo,La Misión,26.51,14.31,7-nov-2021
+98,Hidalgo,Molango de Escamilla,26.51,14.31,7-nov-2021
+98,Hidalgo,Nicolás Flores,26.51,14.31,7-nov-2021
+98,Hidalgo,Pacula,26.51,14.31,7-nov-2021
+98,Hidalgo,Tianguistengo,26.51,14.31,7-nov-2021
+98,Hidalgo,Tlahuiltepa,26.51,14.31,7-nov-2021
+98,Hidalgo,Tlanchinol,26.51,14.31,7-nov-2021
+98,Hidalgo,Xochiatipan,26.51,14.31,7-nov-2021
+98,Hidalgo,Xochicoatlán,26.51,14.31,7-nov-2021
+98,Hidalgo,Yahualica,26.51,14.31,7-nov-2021
+98,Hidalgo,Zacualtipán de Ángeles,26.51,14.31,7-nov-2021
+98,Hidalgo,Zimapán,26.51,14.31,7-nov-2021
+99,Hidalgo,Epazoyucan,24.72,13.35,7-nov-2021
+99,Hidalgo,Mineral del Chico,24.72,13.35,7-nov-2021
+99,Hidalgo,Mineral del Monte,24.72,13.35,7-nov-2021
+99,Hidalgo,Omitlán de Juárez,24.72,13.35,7-nov-2021
+99,Hidalgo,Pachuca de Soto,24.72,13.35,7-nov-2021
+99,Hidalgo,Mineral de la Reforma,24.72,13.35,7-nov-2021
+99,Hidalgo,San Agustín Tlaxiaca,24.72,13.35,7-nov-2021
+100,Hidalgo,Ajacuba,26.65,14.39,7-nov-2021
+100,Hidalgo,Atitalaquia,26.65,14.39,7-nov-2021
+100,Hidalgo,Atotonilco de Tula,26.65,14.39,7-nov-2021
+100,Hidalgo,Tepeji del Río de Ocampo,26.65,14.39,7-nov-2021
+100,Hidalgo,Tepetitlán,26.65,14.39,7-nov-2021
+100,Hidalgo,Tetepango,26.65,14.39,7-nov-2021
+100,Hidalgo,Tlahuelilpan,26.65,14.39,7-nov-2021
+100,Hidalgo,Tlaxcoapan,26.65,14.39,7-nov-2021
+100,Hidalgo,Tula de Allende,26.65,14.39,7-nov-2021
+101,Puebla,Francisco Z. Mena,26.28,14.19,7-nov-2021
+101,Puebla,Pantepec,26.28,14.19,7-nov-2021
+101,Puebla,Venustiano Carranza,26.28,14.19,7-nov-2021
+101,Veracruz de Ignacio de la Llave,Cazones de Herrera,26.28,14.19,7-nov-2021
+101,Veracruz de Ignacio de la Llave,Coahuitlán,26.28,14.19,7-nov-2021
+101,Veracruz de Ignacio de la Llave,Coatzintla,26.28,14.19,7-nov-2021
+101,Veracruz de Ignacio de la Llave,Coxquihui,26.28,14.19,7-nov-2021
+101,Veracruz de Ignacio de la Llave,Coyutla,26.28,14.19,7-nov-2021
+101,Veracruz de Ignacio de la Llave,Chumatlán,26.28,14.19,7-nov-2021
+101,Veracruz de Ignacio de la Llave,Espinal,26.28,14.19,7-nov-2021
+101,Veracruz de Ignacio de la Llave,Filomeno Mata,26.28,14.19,7-nov-2021
+101,Veracruz de Ignacio de la Llave,Gutiérrez Zamora,26.28,14.19,7-nov-2021
+101,Veracruz de Ignacio de la Llave,Mecatlán,26.28,14.19,7-nov-2021
+101,Veracruz de Ignacio de la Llave,Papantla,26.28,14.19,7-nov-2021
+101,Veracruz de Ignacio de la Llave,Poza Rica de Hidalgo,26.28,14.19,7-nov-2021
+101,Veracruz de Ignacio de la Llave,Castillo de Teayo,26.28,14.19,7-nov-2021
+101,Veracruz de Ignacio de la Llave,Tecolutla,26.28,14.19,7-nov-2021
+101,Veracruz de Ignacio de la Llave,Tihuatlán,26.28,14.19,7-nov-2021
+101,Veracruz de Ignacio de la Llave,Zozocolco de Hidalgo,26.28,14.19,7-nov-2021
+102,Puebla,Acateno,23.84,12.87,7-nov-2021
+102,Puebla,Ahuacatlán,23.84,12.87,7-nov-2021
+102,Puebla,Ahuazotepec,23.84,12.87,7-nov-2021
+102,Puebla,Amixtlán,23.84,12.87,7-nov-2021
+102,Puebla,Aquixtla,23.84,12.87,7-nov-2021
+102,Puebla,Atempan,23.84,12.87,7-nov-2021
+102,Puebla,Ayotoxco de Guerrero,23.84,12.87,7-nov-2021
+102,Puebla,Camocuautla,23.84,12.87,7-nov-2021
+102,Puebla,Caxhuacan,23.84,12.87,7-nov-2021
+102,Puebla,Coatepec,23.84,12.87,7-nov-2021
+102,Puebla,Cuautempan,23.84,12.87,7-nov-2021
+102,Puebla,Cuetzalan del Progreso,23.84,12.87,7-nov-2021
+102,Puebla,Cuyoaco,23.84,12.87,7-nov-2021
+102,Puebla,Chiconcuautla,23.84,12.87,7-nov-2021
+102,Puebla,Chignahuapan,23.84,12.87,7-nov-2021
+102,Puebla,Chignautla,23.84,12.87,7-nov-2021
+102,Puebla,Honey,23.84,12.87,7-nov-2021
+102,Puebla,Hermenegildo Galeana,23.84,12.87,7-nov-2021
+102,Puebla,Huauchinango,23.84,12.87,7-nov-2021
+102,Puebla,Huehuetla,23.84,12.87,7-nov-2021
+102,Puebla,Hueyapan,23.84,12.87,7-nov-2021
+102,Puebla,Hueytamalco,23.84,12.87,7-nov-2021
+102,Puebla,Hueytlalpan,23.84,12.87,7-nov-2021
+102,Puebla,Huitzilan de Serdán,23.84,12.87,7-nov-2021
+102,Puebla,Atlequizayan,23.84,12.87,7-nov-2021
+102,Puebla,Ixtacamaxtitlán,23.84,12.87,7-nov-2021
+102,Puebla,Ixtepec,23.84,12.87,7-nov-2021
+102,Puebla,Jalpan,23.84,12.87,7-nov-2021
+102,Puebla,Jonotla,23.84,12.87,7-nov-2021
+102,Puebla,Jopala,23.84,12.87,7-nov-2021
+102,Puebla,Juan Galindo,23.84,12.87,7-nov-2021
+102,Puebla,Libres,23.84,12.87,7-nov-2021
+102,Puebla,Naupan,23.84,12.87,7-nov-2021
+102,Puebla,Nauzontla,23.84,12.87,7-nov-2021
+102,Puebla,Ocotepec,23.84,12.87,7-nov-2021
+102,Puebla,Olintla,23.84,12.87,7-nov-2021
+102,Puebla,Oriental,23.84,12.87,7-nov-2021
+102,Puebla,Pahuatlán,23.84,12.87,7-nov-2021
+102,Puebla,San Felipe Tepatlán,23.84,12.87,7-nov-2021
+102,Puebla,Tenampulco,23.84,12.87,7-nov-2021
+102,Puebla,Tepango de Rodríguez,23.84,12.87,7-nov-2021
+102,Puebla,Tepetzintla,23.84,12.87,7-nov-2021
+102,Puebla,Tepeyahualco,23.84,12.87,7-nov-2021
+102,Puebla,Tetela de Ocampo,23.84,12.87,7-nov-2021
+102,Puebla,Teteles de Ávila Castillo,23.84,12.87,7-nov-2021
+102,Puebla,Teziutlán,23.84,12.87,7-nov-2021
+102,Puebla,Tlacuilotepec,23.84,12.87,7-nov-2021
+102,Puebla,Tlaola,23.84,12.87,7-nov-2021
+102,Puebla,Tlapacoya,23.84,12.87,7-nov-2021
+102,Puebla,Tlatlauquitepec,23.84,12.87,7-nov-2021
+102,Puebla,Tlaxco,23.84,12.87,7-nov-2021
+102,Puebla,Tuzamapan de Galeana,23.84,12.87,7-nov-2021
+102,Puebla,Xicotepec,23.84,12.87,7-nov-2021
+102,Puebla,Xiutetelco,23.84,12.87,7-nov-2021
+102,Puebla,Xochiapulco,23.84,12.87,7-nov-2021
+102,Puebla,Xochitlán de Vicente Suárez,23.84,12.87,7-nov-2021
+102,Puebla,Yaonáhuac,23.84,12.87,7-nov-2021
+102,Puebla,Zacapoaxtla,23.84,12.87,7-nov-2021
+102,Puebla,Zacatlán,23.84,12.87,7-nov-2021
+102,Puebla,Zapotitlán de Méndez,23.84,12.87,7-nov-2021
+102,Puebla,Zaragoza,23.84,12.87,7-nov-2021
+102,Puebla,Zautla,23.84,12.87,7-nov-2021
+102,Puebla,Zihuateutla,23.84,12.87,7-nov-2021
+102,Puebla,Zongozotla,23.84,12.87,7-nov-2021
+102,Puebla,Zoquiapan,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Acajete,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Acatlán,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Alto Lucero de Gutiérrez Barrios,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Altotonga,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Atzalan,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Ayahualulco,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Banderilla,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Coacoatzintla,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Coatepec,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Colipa,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Cosautlán de Carvajal,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Chiconquiaco,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Ixhuacán de los Reyes,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Jalacingo,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Xalapa,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Xico,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Jilotepec,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Juchique de Ferrer,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Landero y Coss,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Martínez de la Torre,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Miahuatlán,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Las Minas,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Misantla,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Naolinco,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Nautla,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Perote,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Las Vigas de Ramírez,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Rafael Lucio,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Tatatila,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Tenochtitlán,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Teocelo,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Tepetlán,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Tlacolulan,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Tlalnelhuayocan,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Tlapacoyan,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Tonayán,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Vega de Alatorre,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Villa Aldama,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,Yecuatla,23.84,12.87,7-nov-2021
+102,Veracruz de Ignacio de la Llave,San Rafael,23.84,12.87,7-nov-2021
+103,Veracruz de Ignacio de la Llave,Ozuluama de Mascareñas,26.28,14.19,7-nov-2021
+103,Veracruz de Ignacio de la Llave,Pánuco,26.28,14.19,7-nov-2021
+103,Veracruz de Ignacio de la Llave,Pueblo Viejo,26.28,14.19,7-nov-2021
+103,Veracruz de Ignacio de la Llave,Tampico Alto,26.28,14.19,7-nov-2021
+103,Veracruz de Ignacio de la Llave,Tempoal,26.28,14.19,7-nov-2021
+103,Veracruz de Ignacio de la Llave,El Higo,26.28,14.19,7-nov-2021
+104,Tamaulipas,Aldama,26.46,14.29,7-nov-2021
+104,Tamaulipas,Altamira,26.46,14.29,7-nov-2021
+104,Tamaulipas,Ciudad Madero,26.46,14.29,7-nov-2021
+104,Tamaulipas,González,26.46,14.29,7-nov-2021
+104,Tamaulipas,Tampico,26.46,14.29,7-nov-2021
+105,Puebla,Acajete,23.82,12.87,7-nov-2021
+105,Puebla,Acatzingo,23.82,12.87,7-nov-2021
+105,Puebla,Amozoc,23.82,12.87,7-nov-2021
+105,Puebla,Atlixco,23.82,12.87,7-nov-2021
+105,Puebla,Atoyatempan,23.82,12.87,7-nov-2021
+105,Puebla,Atzitzihuacán,23.82,12.87,7-nov-2021
+105,Puebla,Calpan,23.82,12.87,7-nov-2021
+105,Puebla,Coronango,23.82,12.87,7-nov-2021
+105,Puebla,Cuautinchán,23.82,12.87,7-nov-2021
+105,Puebla,Cuautlancingo,23.82,12.87,7-nov-2021
+105,Puebla,Chiautzingo,23.82,12.87,7-nov-2021
+105,Puebla,Domingo Arenas,23.82,12.87,7-nov-2021
+105,Puebla,Huaquechula,23.82,12.87,7-nov-2021
+105,Puebla,Huejotzingo,23.82,12.87,7-nov-2021
+105,Puebla,Huitziltepec,23.82,12.87,7-nov-2021
+105,Puebla,Juan C. Bonilla,23.82,12.87,7-nov-2021
+105,Puebla,Mixtla,23.82,12.87,7-nov-2021
+105,Puebla,Molcaxac,23.82,12.87,7-nov-2021
+105,Puebla,Nealtican,23.82,12.87,7-nov-2021
+105,Puebla,Nopalucan,23.82,12.87,7-nov-2021
+105,Puebla,Ocoyucan,23.82,12.87,7-nov-2021
+105,Puebla,Puebla,23.82,12.87,7-nov-2021
+105,Puebla,Rafael Lara Grajales,23.82,12.87,7-nov-2021
+105,Puebla,Los Reyes de Juárez,23.82,12.87,7-nov-2021
+105,Puebla,San Andrés Cholula,23.82,12.87,7-nov-2021
+105,Puebla,San Felipe Teotlalcingo,23.82,12.87,7-nov-2021
+105,Puebla,San Gregorio Atzompa,23.82,12.87,7-nov-2021
+105,Puebla,San Jerónimo Tecuanipan,23.82,12.87,7-nov-2021
+105,Puebla,San José Chiapa,23.82,12.87,7-nov-2021
+105,Puebla,San Martín Texmelucan,23.82,12.87,7-nov-2021
+105,Puebla,San Matías Tlalancaleca,23.82,12.87,7-nov-2021
+105,Puebla,San Miguel Xoxtla,23.82,12.87,7-nov-2021
+105,Puebla,San Nicolás de los Ranchos,23.82,12.87,7-nov-2021
+105,Puebla,San Pedro Cholula,23.82,12.87,7-nov-2021
+105,Puebla,San Salvador el Verde,23.82,12.87,7-nov-2021
+105,Puebla,Santa Isabel Cholula,23.82,12.87,7-nov-2021
+105,Puebla,Santo Tomás Hueyotlipan,23.82,12.87,7-nov-2021
+105,Puebla,Tecali de Herrera,23.82,12.87,7-nov-2021
+105,Puebla,Tepatlaxco de Hidalgo,23.82,12.87,7-nov-2021
+105,Puebla,Tepeaca,23.82,12.87,7-nov-2021
+105,Puebla,Tepeyahualco de Cuauhtémoc,23.82,12.87,7-nov-2021
+105,Puebla,Tianguismanalco,23.82,12.87,7-nov-2021
+105,Puebla,Tlahuapan,23.82,12.87,7-nov-2021
+105,Puebla,Tlaltenango,23.82,12.87,7-nov-2021
+105,Puebla,Tlanepantla,23.82,12.87,7-nov-2021
+105,Puebla,Tochimilco,23.82,12.87,7-nov-2021
+105,Puebla,Tochtepec,23.82,12.87,7-nov-2021
+105,Puebla,Tzicatlacoyan,23.82,12.87,7-nov-2021
+105,Tlaxcala,Ixtacuixtla de Mariano Matamoros,23.82,12.87,7-nov-2021
+105,Tlaxcala,Mazatecochco de José María Morelos,23.82,12.87,7-nov-2021
+105,Tlaxcala,Tepetitla de Lardizábal,23.82,12.87,7-nov-2021
+105,Tlaxcala,Acuamanala de Miguel Hidalgo,23.82,12.87,7-nov-2021
+105,Tlaxcala,Natívitas,23.82,12.87,7-nov-2021
+105,Tlaxcala,San Pablo del Monte,23.82,12.87,7-nov-2021
+105,Tlaxcala,Tenancingo,23.82,12.87,7-nov-2021
+105,Tlaxcala,Tetlatlahuca,23.82,12.87,7-nov-2021
+105,Tlaxcala,Papalotla de Xicohténcatl,23.82,12.87,7-nov-2021
+105,Tlaxcala,Xicohtzinco,23.82,12.87,7-nov-2021
+105,Tlaxcala,Zacatelco,23.82,12.87,7-nov-2021
+105,Tlaxcala,San Jerónimo Zacualpan,23.82,12.87,7-nov-2021
+105,Tlaxcala,San Juan Huactzinco,23.82,12.87,7-nov-2021
+105,Tlaxcala,San Lorenzo Axocomanitla,23.82,12.87,7-nov-2021
+105,Tlaxcala,Santa Apolonia Teacalco,23.82,12.87,7-nov-2021
+105,Tlaxcala,Santa Catarina Ayometla,23.82,12.87,7-nov-2021
+105,Tlaxcala,Santa Cruz Quilehtla,23.82,12.87,7-nov-2021
+106,Morelos,Axochiapan,25.52,13.78,7-nov-2021
+106,Morelos,Jantetelco,25.52,13.78,7-nov-2021
+106,Morelos,Hueyapan,25.52,13.78,7-nov-2021
+106,Puebla,Acatlán,25.52,13.78,7-nov-2021
+106,Puebla,Acteopan,25.52,13.78,7-nov-2021
+106,Puebla,Ahuatlán,25.52,13.78,7-nov-2021
+106,Puebla,Ahuehuetitla,25.52,13.78,7-nov-2021
+106,Puebla,Albino Zertuche,25.52,13.78,7-nov-2021
+106,Puebla,Atzala,25.52,13.78,7-nov-2021
+106,Puebla,Axutla,25.52,13.78,7-nov-2021
+106,Puebla,Coatzingo,25.52,13.78,7-nov-2021
+106,Puebla,Cohetzala,25.52,13.78,7-nov-2021
+106,Puebla,Cohuecan,25.52,13.78,7-nov-2021
+106,Puebla,Coyotepec,25.52,13.78,7-nov-2021
+106,Puebla,Cuapiaxtla de Madero,25.52,13.78,7-nov-2021
+106,Puebla,Cuayuca de Andrade,25.52,13.78,7-nov-2021
+106,Puebla,Chiautla,25.52,13.78,7-nov-2021
+106,Puebla,Chietla,25.52,13.78,7-nov-2021
+106,Puebla,Chigmecatitlán,25.52,13.78,7-nov-2021
+106,Puebla,Chila,25.52,13.78,7-nov-2021
+106,Puebla,Chila de la Sal,25.52,13.78,7-nov-2021
+106,Puebla,Chinantla,25.52,13.78,7-nov-2021
+106,Puebla,Epatlán,25.52,13.78,7-nov-2021
+106,Puebla,Guadalupe,25.52,13.78,7-nov-2021
+106,Puebla,Huatlatlauca,25.52,13.78,7-nov-2021
+106,Puebla,Huehuetlán el Chico,25.52,13.78,7-nov-2021
+106,Puebla,Ixcamilpa de Guerrero,25.52,13.78,7-nov-2021
+106,Puebla,Ixcaquixtla,25.52,13.78,7-nov-2021
+106,Puebla,Izúcar de Matamoros,25.52,13.78,7-nov-2021
+106,Puebla,Jolalpan,25.52,13.78,7-nov-2021
+106,Puebla,Juan N. Méndez,25.52,13.78,7-nov-2021
+106,Puebla,La Magdalena Tlatlauquitepec,25.52,13.78,7-nov-2021
+106,Puebla,Petlalcingo,25.52,13.78,7-nov-2021
+106,Puebla,Piaxtla,25.52,13.78,7-nov-2021
+106,Puebla,San Diego la Mesa Tochimiltzingo,25.52,13.78,7-nov-2021
+106,Puebla,San Jerónimo Xayacatlán,25.52,13.78,7-nov-2021
+106,Puebla,San Juan Atzompa,25.52,13.78,7-nov-2021
+106,Puebla,San Martín Totoltepec,25.52,13.78,7-nov-2021
+106,Puebla,San Miguel Ixitlán,25.52,13.78,7-nov-2021
+106,Puebla,San Pablo Anicano,25.52,13.78,7-nov-2021
+106,Puebla,San Pedro Yeloixtlahuaca,25.52,13.78,7-nov-2021
+106,Puebla,Santa Catarina Tlaltempan,25.52,13.78,7-nov-2021
+106,Puebla,Santa Inés Ahuatempan,25.52,13.78,7-nov-2021
+106,Puebla,Huehuetlán el Grande,25.52,13.78,7-nov-2021
+106,Puebla,Tecomatlán,25.52,13.78,7-nov-2021
+106,Puebla,Tehuitzingo,25.52,13.78,7-nov-2021
+106,Puebla,Teopantlán,25.52,13.78,7-nov-2021
+106,Puebla,Teotlalco,25.52,13.78,7-nov-2021
+106,Puebla,Tepemaxalco,25.52,13.78,7-nov-2021
+106,Puebla,Tepeojuma,25.52,13.78,7-nov-2021
+106,Puebla,Tepexco,25.52,13.78,7-nov-2021
+106,Puebla,Tepexi de Rodríguez,25.52,13.78,7-nov-2021
+106,Puebla,Tilapa,25.52,13.78,7-nov-2021
+106,Puebla,Tlapanalá,25.52,13.78,7-nov-2021
+106,Puebla,Totoltepec de Guerrero,25.52,13.78,7-nov-2021
+106,Puebla,Tulcingo,25.52,13.78,7-nov-2021
+106,Puebla,Xayacatlán de Bravo,25.52,13.78,7-nov-2021
+106,Puebla,Xicotlán,25.52,13.78,7-nov-2021
+106,Puebla,Xochiltepec,25.52,13.78,7-nov-2021
+106,Puebla,Zacapala,25.52,13.78,7-nov-2021
+107,Tlaxcala,Atltzayanca,26.22,14.16,7-nov-2021
+107,Tlaxcala,El Carmen Tequexquitla,26.22,14.16,7-nov-2021
+107,Tlaxcala,Cuapiaxtla,26.22,14.16,7-nov-2021
+107,Tlaxcala,Huamantla,26.22,14.16,7-nov-2021
+107,Tlaxcala,Ixtenco,26.22,14.16,7-nov-2021
+107,Tlaxcala,Terrenate,26.22,14.16,7-nov-2021
+107,Tlaxcala,Ziltlaltépec de Trinidad Sánchez Santos,26.22,14.16,7-nov-2021
+108,Tlaxcala,Amaxac de Guerrero,24.38,13.17,7-nov-2021
+108,Tlaxcala,Apetatitlán de Antonio Carvajal,24.38,13.17,7-nov-2021
+108,Tlaxcala,Apizaco,24.38,13.17,7-nov-2021
+108,Tlaxcala,Cuaxomulco,24.38,13.17,7-nov-2021
+108,Tlaxcala,Chiautempan,24.38,13.17,7-nov-2021
+108,Tlaxcala,Contla de Juan Cuamatzi,24.38,13.17,7-nov-2021
+108,Tlaxcala,Panotla,24.38,13.17,7-nov-2021
+108,Tlaxcala,Santa Cruz Tlaxcala,24.38,13.17,7-nov-2021
+108,Tlaxcala,Teolocholco,24.38,13.17,7-nov-2021
+108,Tlaxcala,Tepeyanco,24.38,13.17,7-nov-2021
+108,Tlaxcala,Tetla de la Solidaridad,24.38,13.17,7-nov-2021
+108,Tlaxcala,Tlaxcala,24.38,13.17,7-nov-2021
+108,Tlaxcala,Tocatlán,24.38,13.17,7-nov-2021
+108,Tlaxcala,Totolac,24.38,13.17,7-nov-2021
+108,Tlaxcala,Tzompantepec,24.38,13.17,7-nov-2021
+108,Tlaxcala,Xaloztoc,24.38,13.17,7-nov-2021
+108,Tlaxcala,Xaltocan,24.38,13.17,7-nov-2021
+108,Tlaxcala,Yauhquemehcan,24.38,13.17,7-nov-2021
+108,Tlaxcala,La Magdalena Tlaltelulco,24.38,13.17,7-nov-2021
+108,Tlaxcala,San Damián Texóloc,24.38,13.17,7-nov-2021
+108,Tlaxcala,San Francisco Tetlanohcan,24.38,13.17,7-nov-2021
+108,Tlaxcala,San José Teacalco,24.38,13.17,7-nov-2021
+108,Tlaxcala,Santa Ana Nopalucan,24.38,13.17,7-nov-2021
+108,Tlaxcala,Santa Isabel Xiloxoxtla,24.38,13.17,7-nov-2021
+109,Tlaxcala,Atlangatepec,25.84,13.95,7-nov-2021
+109,Tlaxcala,Muñoz de Domingo Arenas,25.84,13.95,7-nov-2021
+109,Tlaxcala,Españita,25.84,13.95,7-nov-2021
+109,Tlaxcala,Hueyotlipan,25.84,13.95,7-nov-2021
+109,Tlaxcala,Tlaxco,25.84,13.95,7-nov-2021
+109,Tlaxcala,Emiliano Zapata,25.84,13.95,7-nov-2021
+109,Tlaxcala,Lázaro Cárdenas,25.84,13.95,7-nov-2021
+109,Tlaxcala,San Lucas Tecopilco,25.84,13.95,7-nov-2021
+110,Puebla,Aljojuca,26.25,14.17,7-nov-2021
+110,Puebla,Atzitzintla,26.25,14.17,7-nov-2021
+110,Puebla,Chalchicomula de Sesma,26.25,14.17,7-nov-2021
+110,Puebla,Chichiquila,26.25,14.17,7-nov-2021
+110,Puebla,Chilchotla,26.25,14.17,7-nov-2021
+110,Puebla,Esperanza,26.25,14.17,7-nov-2021
+110,Puebla,General Felipe Ángeles,26.25,14.17,7-nov-2021
+110,Puebla,Guadalupe Victoria,26.25,14.17,7-nov-2021
+110,Puebla,Lafragua,26.25,14.17,7-nov-2021
+110,Puebla,Mazapiltepec de Juárez,26.25,14.17,7-nov-2021
+110,Puebla,Palmar de Bravo,26.25,14.17,7-nov-2021
+110,Puebla,Quecholac,26.25,14.17,7-nov-2021
+110,Puebla,Quimixtlán,26.25,14.17,7-nov-2021
+110,Puebla,San Juan Atenco,26.25,14.17,7-nov-2021
+110,Puebla,San Nicolás Buenos Aires,26.25,14.17,7-nov-2021
+110,Puebla,San Salvador el Seco,26.25,14.17,7-nov-2021
+110,Puebla,San Salvador Huixcolotla,26.25,14.17,7-nov-2021
+110,Puebla,Soltepec,26.25,14.17,7-nov-2021
+110,Puebla,Tecamachalco,26.25,14.17,7-nov-2021
+110,Puebla,Tlachichuca,26.25,14.17,7-nov-2021
+110,Puebla,Yehualtepec,26.25,14.17,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Actopan,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Acultzingo,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Camarón de Tejeda,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Alpatláhuac,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Alvarado,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Amatitlán,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Amatlán de los Reyes,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Angel R. Cabada,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,La Antigua,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Apazapan,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Aquila,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Astacinga,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Atlahuilco,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Atoyac,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Atzacan,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Tlaltetela,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Boca del Río,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Calcahualco,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Camerino Z. Mendoza,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Carrillo Puerto,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Catemaco,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Coetzala,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Comapa,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Córdoba,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Coscomatepec,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Cotaxtla,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Cuichapa,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Cuitláhuac,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Chocamán,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Emiliano Zapata,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Fortín,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Huatusco,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Huiloapan de Cuauhtémoc,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Ignacio de la Llave,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Ixhuatlán del Café,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Ixhuatlancillo,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Ixtaczoquitlán,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Jalcomulco,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Jamapa,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Lerdo de Tejada,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Magdalena,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Maltrata,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Manlio Fabio Altamirano,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Mariano Escobedo,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Medellín de Bravo,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Mixtla de Altamirano,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Naranjal,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Nogales,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Omealca,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Orizaba,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Paso del Macho,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Paso de Ovejas,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,La Perla,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Puente Nacional,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Rafael Delgado,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Los Reyes,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Río Blanco,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Saltabarranca,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,San Andrés Tenejapan,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,San Andrés Tuxtla,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Santiago Tuxtla,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Sochiapa,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Soledad Atzompa,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Soledad de Doblado,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Tehuipango,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Tenampa,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Tepatlaxco,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Tequila,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Texhuacán,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Tezonapa,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Tlacotalpan,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Tlacotepec de Mejía,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Tlalixcoyan,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Tlaquilpa,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Tlilapan,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Tomatlán,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Totutla,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Ursulo Galván,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Veracruz,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Xoxocotla,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Yanga,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Zentla,23.84,12.87,7-nov-2021
+111,Veracruz de Ignacio de la Llave,Zongolica,23.84,12.87,7-nov-2021
+112,Guerrero,Apaxtla,25.82,13.94,7-nov-2021
+112,Guerrero,Atenango del Río,25.82,13.94,7-nov-2021
+112,Guerrero,Buenavista de Cuéllar,25.82,13.94,7-nov-2021
+112,Guerrero,Cocula,25.82,13.94,7-nov-2021
+112,Guerrero,Copalillo,25.82,13.94,7-nov-2021
+112,Guerrero,Cuetzala del Progreso,25.82,13.94,7-nov-2021
+112,Guerrero,Huitzuco de los Figueroa,25.82,13.94,7-nov-2021
+112,Guerrero,Iguala de la Independencia,25.82,13.94,7-nov-2021
+112,Guerrero,Ixcateopan de Cuauhtémoc,25.82,13.94,7-nov-2021
+112,Guerrero,Pedro Ascencio Alquisiras,25.82,13.94,7-nov-2021
+112,Guerrero,Pilcaya,25.82,13.94,7-nov-2021
+112,Guerrero,Taxco de Alarcón,25.82,13.94,7-nov-2021
+112,Guerrero,Teloloapan,25.82,13.94,7-nov-2021
+112,Guerrero,Tepecoacuilco de Trujano,25.82,13.94,7-nov-2021
+112,Guerrero,Tetipac,25.82,13.94,7-nov-2021
+113,Guerrero,Ajuchitlán del Progreso,26.53,14.33,7-nov-2021
+113,Guerrero,Arcelia,26.53,14.33,7-nov-2021
+113,Guerrero,Coyuca de Catalán,26.53,14.33,7-nov-2021
+113,Guerrero,Cutzamala de Pinzón,26.53,14.33,7-nov-2021
+113,Guerrero,General Canuto A. Neri,26.53,14.33,7-nov-2021
+113,Guerrero,Pungarabato,26.53,14.33,7-nov-2021
+113,Guerrero,San Miguel Totolapan,26.53,14.33,7-nov-2021
+113,Guerrero,Tlalchapa,26.53,14.33,7-nov-2021
+113,Guerrero,Tlapehuala,26.53,14.33,7-nov-2021
+113,Guerrero,Zirándaro,26.53,14.33,7-nov-2021
+114,Oaxaca,Concepción Buenavista,25.86,13.97,7-nov-2021
+114,Oaxaca,Cosoltepec,25.86,13.97,7-nov-2021
+114,Oaxaca,Eloxochitlán de Flores Magón,25.86,13.97,7-nov-2021
+114,Oaxaca,Huautepec,25.86,13.97,7-nov-2021
+114,Oaxaca,Huautla de Jiménez,25.86,13.97,7-nov-2021
+114,Oaxaca,San Antonio Nanahuatípam,25.86,13.97,7-nov-2021
+114,Oaxaca,San Francisco Huehuetlán,25.86,13.97,7-nov-2021
+114,Oaxaca,San Francisco Teopan,25.86,13.97,7-nov-2021
+114,Oaxaca,San Jerónimo Tecóatl,25.86,13.97,7-nov-2021
+114,Oaxaca,San Juan Bautista Suchitepec,25.86,13.97,7-nov-2021
+114,Oaxaca,San Juan de los Cués,25.86,13.97,7-nov-2021
+114,Oaxaca,San Lorenzo Cuaunecuiltitla,25.86,13.97,7-nov-2021
+114,Oaxaca,San Lucas Zoquiápam,25.86,13.97,7-nov-2021
+114,Oaxaca,San Martín Toxpalan,25.86,13.97,7-nov-2021
+114,Oaxaca,San Mateo Yoloxochitlán,25.86,13.97,7-nov-2021
+114,Oaxaca,San Pedro Ocopetatillo,25.86,13.97,7-nov-2021
+114,Oaxaca,San Pedro y San Pablo Tequixtepec,25.86,13.97,7-nov-2021
+114,Oaxaca,Santa Ana Ateixtlahuaca,25.86,13.97,7-nov-2021
+114,Oaxaca,Santa Catarina Zapoquila,25.86,13.97,7-nov-2021
+114,Oaxaca,Santa Cruz Acatepec,25.86,13.97,7-nov-2021
+114,Oaxaca,Santa María la Asunción,25.86,13.97,7-nov-2021
+114,Oaxaca,Santa María Chilchotla,25.86,13.97,7-nov-2021
+114,Oaxaca,Santa María Teopoxco,25.86,13.97,7-nov-2021
+114,Oaxaca,Villa de Santiago Chazumba,25.86,13.97,7-nov-2021
+114,Oaxaca,Santiago Ihuitlán Plumas,25.86,13.97,7-nov-2021
+114,Oaxaca,Santiago Texcalcingo,25.86,13.97,7-nov-2021
+114,Oaxaca,Teotitlán de Flores Magón,25.86,13.97,7-nov-2021
+114,Oaxaca,Tepelmeme Villa de Morelos,25.86,13.97,7-nov-2021
+114,Oaxaca,Tlacotepec Plumas,25.86,13.97,7-nov-2021
+114,Puebla,Ajalpan,25.86,13.97,7-nov-2021
+114,Puebla,Altepexi,25.86,13.97,7-nov-2021
+114,Puebla,Atexcal,25.86,13.97,7-nov-2021
+114,Puebla,Caltepec,25.86,13.97,7-nov-2021
+114,Puebla,Coxcatlán,25.86,13.97,7-nov-2021
+114,Puebla,Coyomeapan,25.86,13.97,7-nov-2021
+114,Puebla,Chapulco,25.86,13.97,7-nov-2021
+114,Puebla,Eloxochitlán,25.86,13.97,7-nov-2021
+114,Puebla,Cañada Morelos,25.86,13.97,7-nov-2021
+114,Puebla,Nicolás Bravo,25.86,13.97,7-nov-2021
+114,Puebla,San Antonio Cañada,25.86,13.97,7-nov-2021
+114,Puebla,San Gabriel Chilac,25.86,13.97,7-nov-2021
+114,Puebla,San José Miahuatlán,25.86,13.97,7-nov-2021
+114,Puebla,San Sebastián Tlacotepec,25.86,13.97,7-nov-2021
+114,Puebla,Santiago Miahuatlán,25.86,13.97,7-nov-2021
+114,Puebla,Tehuacán,25.86,13.97,7-nov-2021
+114,Puebla,Tepanco de López,25.86,13.97,7-nov-2021
+114,Puebla,Tlacotepec de Benito Juárez,25.86,13.97,7-nov-2021
+114,Puebla,Vicente Guerrero,25.86,13.97,7-nov-2021
+114,Puebla,Xochitlán Todos Santos,25.86,13.97,7-nov-2021
+114,Puebla,Zapotitlán,25.86,13.97,7-nov-2021
+114,Puebla,Zinacatepec,25.86,13.97,7-nov-2021
+114,Puebla,Zoquitlán,25.86,13.97,7-nov-2021
+115,Morelos,Amacuzac,25.52,13.78,7-nov-2021
+115,Morelos,Ayala,25.52,13.78,7-nov-2021
+115,Morelos,Coatlán del Río,25.52,13.78,7-nov-2021
+115,Morelos,Jojutla,25.52,13.78,7-nov-2021
+115,Morelos,Jonacatepec de Leandro Valle,25.52,13.78,7-nov-2021
+115,Morelos,Mazatepec,25.52,13.78,7-nov-2021
+115,Morelos,Miacatlán,25.52,13.78,7-nov-2021
+115,Morelos,Puente de Ixtla,25.52,13.78,7-nov-2021
+115,Morelos,Tepalcingo,25.52,13.78,7-nov-2021
+115,Morelos,Tetecala,25.52,13.78,7-nov-2021
+115,Morelos,Tlaltizapán de Zapata,25.52,13.78,7-nov-2021
+115,Morelos,Tlaquiltenango,25.52,13.78,7-nov-2021
+115,Morelos,Xochitepec,25.52,13.78,7-nov-2021
+115,Morelos,Zacatepec,25.52,13.78,7-nov-2021
+115,Morelos,Coatetelco,25.52,13.78,7-nov-2021
+115,Morelos,Xoxocotla,25.52,13.78,7-nov-2021
+116,Morelos,Atlatlahucan,23.95,12.93,7-nov-2021
+116,Morelos,Cuautla,23.95,12.93,7-nov-2021
+116,Morelos,Cuernavaca,23.95,12.93,7-nov-2021
+116,Morelos,Emiliano Zapata,23.95,12.93,7-nov-2021
+116,Morelos,Huitzilac,23.95,12.93,7-nov-2021
+116,Morelos,Jiutepec,23.95,12.93,7-nov-2021
+116,Morelos,Ocuituco,23.95,12.93,7-nov-2021
+116,Morelos,Temixco,23.95,12.93,7-nov-2021
+116,Morelos,Tepoztlán,23.95,12.93,7-nov-2021
+116,Morelos,Tetela del Volcán,23.95,12.93,7-nov-2021
+116,Morelos,Tlalnepantla,23.95,12.93,7-nov-2021
+116,Morelos,Tlayacapan,23.95,12.93,7-nov-2021
+116,Morelos,Totolapan,23.95,12.93,7-nov-2021
+116,Morelos,Yautepec,23.95,12.93,7-nov-2021
+116,Morelos,Yecapixtla,23.95,12.93,7-nov-2021
+116,Morelos,Zacualpan de Amilpas,23.95,12.93,7-nov-2021
+116,Morelos,Temoac,23.95,12.93,7-nov-2021
+117,Guerrero,Atoyac de Álvarez,25.88,13.98,7-nov-2021
+117,Guerrero,Benito Juárez,25.88,13.98,7-nov-2021
+117,Guerrero,Técpan de Galeana,25.88,13.98,7-nov-2021
+118,Guerrero,Acapulco de Juárez,25.13,13.57,7-nov-2021
+118,Guerrero,Ayutla de los Libres,25.13,13.57,7-nov-2021
+118,Guerrero,Coyuca de Benítez,25.13,13.57,7-nov-2021
+118,Guerrero,Florencio Villarreal,25.13,13.57,7-nov-2021
+118,Guerrero,San Marcos,25.13,13.57,7-nov-2021
+118,Guerrero,Tecoanapa,25.13,13.57,7-nov-2021
+119,Guerrero,Azoyú,26.93,14.54,7-nov-2021
+119,Guerrero,Copala,26.93,14.54,7-nov-2021
+119,Guerrero,Cuajinicuilapa,26.93,14.54,7-nov-2021
+119,Guerrero,Cuautepec,26.93,14.54,7-nov-2021
+119,Guerrero,Igualapa,26.93,14.54,7-nov-2021
+119,Guerrero,Ometepec,26.93,14.54,7-nov-2021
+119,Guerrero,San Luis Acatlán,26.93,14.54,7-nov-2021
+119,Guerrero,Tlacoachistlahuaca,26.93,14.54,7-nov-2021
+119,Guerrero,Xochistlahuaca,26.93,14.54,7-nov-2021
+119,Guerrero,Marquelia,26.93,14.54,7-nov-2021
+119,Guerrero,Juchitán,26.93,14.54,7-nov-2021
+120,Guerrero,Ahuacuotzingo,26.37,14.24,7-nov-2021
+120,Guerrero,Atlixtac,26.37,14.24,7-nov-2021
+120,Guerrero,Chilapa de Álvarez,26.37,14.24,7-nov-2021
+120,Guerrero,Chilpancingo de los Bravo,26.37,14.24,7-nov-2021
+120,Guerrero,General Heliodoro Castillo,26.37,14.24,7-nov-2021
+120,Guerrero,Juan R. Escudero,26.37,14.24,7-nov-2021
+120,Guerrero,Leonardo Bravo,26.37,14.24,7-nov-2021
+120,Guerrero,Mártir de Cuilapan,26.37,14.24,7-nov-2021
+120,Guerrero,Mochitlán,26.37,14.24,7-nov-2021
+120,Guerrero,Quechultenango,26.37,14.24,7-nov-2021
+120,Guerrero,Tixtla de Guerrero,26.37,14.24,7-nov-2021
+120,Guerrero,Zitlala,26.37,14.24,7-nov-2021
+120,Guerrero,Eduardo Neri,26.37,14.24,7-nov-2021
+120,Guerrero,José Joaquín de Herrera,26.37,14.24,7-nov-2021
+121,Guerrero,Alcozauca de Guerrero,26.92,14.54,7-nov-2021
+121,Guerrero,Alpoyeca,26.92,14.54,7-nov-2021
+121,Guerrero,Atlamajalcingo del Monte,26.92,14.54,7-nov-2021
+121,Guerrero,Copanatoyac,26.92,14.54,7-nov-2021
+121,Guerrero,Cualác,26.92,14.54,7-nov-2021
+121,Guerrero,Huamuxtitlán,26.92,14.54,7-nov-2021
+121,Guerrero,Malinaltepec,26.92,14.54,7-nov-2021
+121,Guerrero,Metlatónoc,26.92,14.54,7-nov-2021
+121,Guerrero,Olinalá,26.92,14.54,7-nov-2021
+121,Guerrero,Tlacoapa,26.92,14.54,7-nov-2021
+121,Guerrero,Tlalixtaquilla de Maldonado,26.92,14.54,7-nov-2021
+121,Guerrero,Tlapa de Comonfort,26.92,14.54,7-nov-2021
+121,Guerrero,Xalpatláhuac,26.92,14.54,7-nov-2021
+121,Guerrero,Xochihuehuetlán,26.92,14.54,7-nov-2021
+121,Guerrero,Zapotitlán Tablas,26.92,14.54,7-nov-2021
+121,Guerrero,Acatepec,26.92,14.54,7-nov-2021
+121,Guerrero,Cochoapa el Grande,26.92,14.54,7-nov-2021
+121,Guerrero,Iliatenco,26.92,14.54,7-nov-2021
+122,Oaxaca,Acatlán de Pérez Figueroa,25.90,13.99,7-nov-2021
+122,Oaxaca,Ayotzintepec,25.90,13.99,7-nov-2021
+122,Oaxaca,Cosolapa,25.90,13.99,7-nov-2021
+122,Oaxaca,Loma Bonita,25.90,13.99,7-nov-2021
+122,Oaxaca,San Andrés Teotilálpam,25.90,13.99,7-nov-2021
+122,Oaxaca,San Bartolomé Ayautla,25.90,13.99,7-nov-2021
+122,Oaxaca,San Felipe Jalapa de Díaz,25.90,13.99,7-nov-2021
+122,Oaxaca,San Felipe Usila,25.90,13.99,7-nov-2021
+122,Oaxaca,San Francisco Chapulapa,25.90,13.99,7-nov-2021
+122,Oaxaca,San José Chiltepec,25.90,13.99,7-nov-2021
+122,Oaxaca,San José Independencia,25.90,13.99,7-nov-2021
+122,Oaxaca,San José Tenango,25.90,13.99,7-nov-2021
+122,Oaxaca,San Juan Bautista Tlacoatzintepec,25.90,13.99,7-nov-2021
+122,Oaxaca,San Juan Bautista Tuxtepec,25.90,13.99,7-nov-2021
+122,Oaxaca,San Juan Coatzóspam,25.90,13.99,7-nov-2021
+122,Oaxaca,San Lucas Ojitlán,25.90,13.99,7-nov-2021
+122,Oaxaca,San Miguel Soyaltepec,25.90,13.99,7-nov-2021
+122,Oaxaca,San Pedro Ixcatlán,25.90,13.99,7-nov-2021
+122,Oaxaca,San Pedro Sochiápam,25.90,13.99,7-nov-2021
+122,Oaxaca,San Pedro Teutila,25.90,13.99,7-nov-2021
+122,Oaxaca,Santa María Jacatepec,25.90,13.99,7-nov-2021
+122,Oaxaca,Santa María Tlalixtac,25.90,13.99,7-nov-2021
+122,Oaxaca,San Juan Bautista Valle Nacional,25.90,13.99,7-nov-2021
+122,Veracruz de Ignacio de la Llave,Acula,25.90,13.99,7-nov-2021
+122,Veracruz de Ignacio de la Llave,Cosamaloapan de Carpio,25.90,13.99,7-nov-2021
+122,Veracruz de Ignacio de la Llave,Chacaltianguis,25.90,13.99,7-nov-2021
+122,Veracruz de Ignacio de la Llave,Ixmatlahuacan,25.90,13.99,7-nov-2021
+122,Veracruz de Ignacio de la Llave,Otatitlán,25.90,13.99,7-nov-2021
+122,Veracruz de Ignacio de la Llave,Tierra Blanca,25.90,13.99,7-nov-2021
+122,Veracruz de Ignacio de la Llave,Tlacojalpan,25.90,13.99,7-nov-2021
+122,Veracruz de Ignacio de la Llave,Tuxtilla,25.90,13.99,7-nov-2021
+122,Veracruz de Ignacio de la Llave,Tres Valles,25.90,13.99,7-nov-2021
+122,Veracruz de Ignacio de la Llave,Carlos A. Carrillo,25.90,13.99,7-nov-2021
+123,Veracruz de Ignacio de la Llave,Acayucan,26.57,14.35,7-nov-2021
+123,Veracruz de Ignacio de la Llave,Hueyapan de Ocampo,26.57,14.35,7-nov-2021
+123,Veracruz de Ignacio de la Llave,Isla,26.57,14.35,7-nov-2021
+123,Veracruz de Ignacio de la Llave,Jesús Carranza,26.57,14.35,7-nov-2021
+123,Veracruz de Ignacio de la Llave,Juan Rodríguez Clara,26.57,14.35,7-nov-2021
+123,Veracruz de Ignacio de la Llave,Playa Vicente,26.57,14.35,7-nov-2021
+123,Veracruz de Ignacio de la Llave,San Juan Evangelista,26.57,14.35,7-nov-2021
+123,Veracruz de Ignacio de la Llave,Sayula de Alemán,26.57,14.35,7-nov-2021
+123,Veracruz de Ignacio de la Llave,José Azueta,26.57,14.35,7-nov-2021
+123,Veracruz de Ignacio de la Llave,Uxpanapa,26.57,14.35,7-nov-2021
+123,Veracruz de Ignacio de la Llave,Santiago Sochiapan,26.57,14.35,7-nov-2021
+124,Veracruz de Ignacio de la Llave,Coatzacoalcos,25.34,13.68,7-nov-2021
+124,Veracruz de Ignacio de la Llave,Cosoleacaque,25.34,13.68,7-nov-2021
+124,Veracruz de Ignacio de la Llave,Chinameca,25.34,13.68,7-nov-2021
+124,Veracruz de Ignacio de la Llave,Las Choapas,25.34,13.68,7-nov-2021
+124,Veracruz de Ignacio de la Llave,Hidalgotitlán,25.34,13.68,7-nov-2021
+124,Veracruz de Ignacio de la Llave,Ixhuatlán del Sureste,25.34,13.68,7-nov-2021
+124,Veracruz de Ignacio de la Llave,Jáltipan,25.34,13.68,7-nov-2021
+124,Veracruz de Ignacio de la Llave,Mecayapan,25.34,13.68,7-nov-2021
+124,Veracruz de Ignacio de la Llave,Minatitlán,25.34,13.68,7-nov-2021
+124,Veracruz de Ignacio de la Llave,Moloacán,25.34,13.68,7-nov-2021
+124,Veracruz de Ignacio de la Llave,Oluta,25.34,13.68,7-nov-2021
+124,Veracruz de Ignacio de la Llave,Oteapan,25.34,13.68,7-nov-2021
+124,Veracruz de Ignacio de la Llave,Pajapan,25.34,13.68,7-nov-2021
+124,Veracruz de Ignacio de la Llave,Soconusco,25.34,13.68,7-nov-2021
+124,Veracruz de Ignacio de la Llave,Soteapan,25.34,13.68,7-nov-2021
+124,Veracruz de Ignacio de la Llave,Texistepec,25.34,13.68,7-nov-2021
+124,Veracruz de Ignacio de la Llave,Zaragoza,25.34,13.68,7-nov-2021
+124,Veracruz de Ignacio de la Llave,Agua Dulce,25.34,13.68,7-nov-2021
+124,Veracruz de Ignacio de la Llave,Nanchital de Lázaro Cárdenas del Río,25.34,13.68,7-nov-2021
+124,Veracruz de Ignacio de la Llave,Tatahuicapan de Juárez,25.34,13.68,7-nov-2021
+125,Chiapas,Amatán,23.74,12.82,7-nov-2021
+125,Chiapas,Ixtacomitán,23.74,12.82,7-nov-2021
+125,Chiapas,Ixtapangajoya,23.74,12.82,7-nov-2021
+125,Chiapas,Juárez,23.74,12.82,7-nov-2021
+125,Chiapas,Ostuacán,23.74,12.82,7-nov-2021
+125,Chiapas,Pichucalco,23.74,12.82,7-nov-2021
+125,Chiapas,Reforma,23.74,12.82,7-nov-2021
+125,Chiapas,Solosuchiapa,23.74,12.82,7-nov-2021
+125,Chiapas,Sunuapa,23.74,12.82,7-nov-2021
+125,Tabasco,Cárdenas,23.74,12.82,7-nov-2021
+125,Tabasco,Centla,23.74,12.82,7-nov-2021
+125,Tabasco,Centro,23.74,12.82,7-nov-2021
+125,Tabasco,Comalcalco,23.74,12.82,7-nov-2021
+125,Tabasco,Cunduacán,23.74,12.82,7-nov-2021
+125,Tabasco,Huimanguillo,23.74,12.82,7-nov-2021
+125,Tabasco,Jalapa,23.74,12.82,7-nov-2021
+125,Tabasco,Jalpa de Méndez,23.74,12.82,7-nov-2021
+125,Tabasco,Macuspana,23.74,12.82,7-nov-2021
+125,Tabasco,Nacajuca,23.74,12.82,7-nov-2021
+125,Tabasco,Paraíso,23.74,12.82,7-nov-2021
+125,Tabasco,Tacotalpa,23.74,12.82,7-nov-2021
+125,Tabasco,Teapa,23.74,12.82,7-nov-2021
+126,Chiapas,Acala,25.46,13.75,7-nov-2021
+126,Chiapas,Altamirano,25.46,13.75,7-nov-2021
+126,Chiapas,Amatenango del Valle,25.46,13.75,7-nov-2021
+126,Chiapas,Berriozábal,25.46,13.75,7-nov-2021
+126,Chiapas,Bochil,25.46,13.75,7-nov-2021
+126,Chiapas,El Bosque,25.46,13.75,7-nov-2021
+126,Chiapas,Coapilla,25.46,13.75,7-nov-2021
+126,Chiapas,Copainalá,25.46,13.75,7-nov-2021
+126,Chiapas,Chalchihuitán,25.46,13.75,7-nov-2021
+126,Chiapas,Chamula,25.46,13.75,7-nov-2021
+126,Chiapas,Chanal,25.46,13.75,7-nov-2021
+126,Chiapas,Chapultenango,25.46,13.75,7-nov-2021
+126,Chiapas,Chenalhó,25.46,13.75,7-nov-2021
+126,Chiapas,Chiapa de Corzo,25.46,13.75,7-nov-2021
+126,Chiapas,Chiapilla,25.46,13.75,7-nov-2021
+126,Chiapas,Chicoasén,25.46,13.75,7-nov-2021
+126,Chiapas,Chilón,25.46,13.75,7-nov-2021
+126,Chiapas,Francisco León,25.46,13.75,7-nov-2021
+126,Chiapas,Huixtán,25.46,13.75,7-nov-2021
+126,Chiapas,Huitiupán,25.46,13.75,7-nov-2021
+126,Chiapas,Ixhuatán,25.46,13.75,7-nov-2021
+126,Chiapas,Ixtapa,25.46,13.75,7-nov-2021
+126,Chiapas,Jiquipilas,25.46,13.75,7-nov-2021
+126,Chiapas,Jitotol,25.46,13.75,7-nov-2021
+126,Chiapas,Larráinzar,25.46,13.75,7-nov-2021
+126,Chiapas,Mitontic,25.46,13.75,7-nov-2021
+126,Chiapas,Nicolás Ruíz,25.46,13.75,7-nov-2021
+126,Chiapas,Ocosingo,23.70,12.80,7-nov-2021
+126,Chiapas,Ocotepec,25.46,13.75,7-nov-2021
+126,Chiapas,Ocozocoautla de Espinosa,25.46,13.75,7-nov-2021
+126,Chiapas,Osumacinta,25.46,13.75,7-nov-2021
+126,Chiapas,Oxchuc,25.46,13.75,7-nov-2021
+126,Chiapas,Pantelhó,25.46,13.75,7-nov-2021
+126,Chiapas,Pantepec,25.46,13.75,7-nov-2021
+126,Chiapas,Pueblo Nuevo Solistahuacán,25.46,13.75,7-nov-2021
+126,Chiapas,Rayón,25.46,13.75,7-nov-2021
+126,Chiapas,Sabanilla,25.46,13.75,7-nov-2021
+126,Chiapas,San Cristóbal de las Casas,25.46,13.75,7-nov-2021
+126,Chiapas,San Fernando,25.46,13.75,7-nov-2021
+126,Chiapas,Simojovel,25.46,13.75,7-nov-2021
+126,Chiapas,Sitalá,25.46,13.75,7-nov-2021
+126,Chiapas,Soyaló,25.46,13.75,7-nov-2021
+126,Chiapas,Suchiapa,25.46,13.75,7-nov-2021
+126,Chiapas,Tapalapa,25.46,13.75,7-nov-2021
+126,Chiapas,Tapilula,25.46,13.75,7-nov-2021
+126,Chiapas,Tecpatán,25.46,13.75,7-nov-2021
+126,Chiapas,Tenejapa,25.46,13.75,7-nov-2021
+126,Chiapas,Teopisca,25.46,13.75,7-nov-2021
+126,Chiapas,Tila,25.46,13.75,7-nov-2021
+126,Chiapas,Totolapa,25.46,13.75,7-nov-2021
+126,Chiapas,Tumbalá,25.46,13.75,7-nov-2021
+126,Chiapas,Tuxtla Gutiérrez,25.46,13.75,7-nov-2021
+126,Chiapas,Villa Corzo,25.46,13.75,7-nov-2021
+126,Chiapas,Villaflores,25.46,13.75,7-nov-2021
+126,Chiapas,Yajalón,25.46,13.75,7-nov-2021
+126,Chiapas,San Lucas,25.46,13.75,7-nov-2021
+126,Chiapas,Zinacantán,25.46,13.75,7-nov-2021
+126,Chiapas,San Juan Cancuc,25.46,13.75,7-nov-2021
+126,Chiapas,Aldama,25.46,13.75,7-nov-2021
+126,Chiapas,San Andrés Duraznal,25.46,13.75,7-nov-2021
+126,Chiapas,Santiago el Pinar,25.46,13.75,7-nov-2021
+126,Chiapas,Rincón Chamula San Pedro,25.46,13.75,7-nov-2021
+126,Chiapas,El Parral,25.46,13.75,7-nov-2021
+126,Chiapas,Emiliano Zapata,25.46,13.75,7-nov-2021
+126,Chiapas,Mezcalapa,25.46,13.75,7-nov-2021
+126,Chiapas,Honduras de la Sierra,25.46,13.75,7-nov-2021
+127,Campeche,Carmen,26.16,14.12,7-nov-2021
+127,Campeche,Palizada,26.16,14.12,7-nov-2021
+127,Tabasco,Jonuta,26.16,14.12,7-nov-2021
+128,Campeche,Escárcega,25.71,13.88,7-nov-2021
+128,Campeche,Calakmul,23.94,12.93,7-nov-2021
+128,Campeche,Candelaria,23.94,12.93,7-nov-2021
+129,Campeche,Calkiní,25.66,13.86,7-nov-2021
+129,Campeche,Campeche,25.66,13.86,7-nov-2021
+129,Campeche,Champotón,25.66,13.86,7-nov-2021
+129,Campeche,Hecelchakán,25.66,13.86,7-nov-2021
+129,Campeche,Hopelchén,25.66,13.86,7-nov-2021
+129,Campeche,Tenabo,25.66,13.86,7-nov-2021
+129,Campeche,Seybaplaya,25.66,13.86,7-nov-2021
+129,Campeche,Dzitbalché,25.66,13.86,7-nov-2021
+130,Chiapas,Acacoyagua,26.07,14.08,7-nov-2021
+130,Chiapas,Acapetahua,26.07,14.08,7-nov-2021
+130,Chiapas,Arriaga,26.07,14.08,7-nov-2021
+130,Chiapas,Cintalapa,26.07,14.08,7-nov-2021
+130,Chiapas,Escuintla,26.07,14.08,7-nov-2021
+130,Chiapas,Mapastepec,26.07,14.08,7-nov-2021
+130,Chiapas,Pijijiapan,26.07,14.08,7-nov-2021
+130,Chiapas,Tonalá,26.07,14.08,7-nov-2021
+130,Chiapas,Capitán Luis Ángel Vidal,26.07,14.08,7-nov-2021
+131,Chiapas,Catazajá,25.56,13.80,7-nov-2021
+131,Chiapas,La Libertad,25.56,13.80,7-nov-2021
+131,Chiapas,Palenque,23.80,12.85,7-nov-2021
+131,Chiapas,Salto de Agua,25.56,13.80,7-nov-2021
+131,Tabasco,Balancán,23.80,12.85,7-nov-2021
+131,Tabasco,Emiliano Zapata,25.56,13.80,7-nov-2021
+131,Tabasco,Tenosique,23.80,12.85,7-nov-2021
+132,Chiapas,Amatenango de la Frontera,24.03,12.98,7-nov-2021
+132,Chiapas,Ángel Albino Corzo,25.81,13.94,7-nov-2021
+132,Chiapas,Bejucal de Ocampo,25.81,13.94,7-nov-2021
+132,Chiapas,Bella Vista,25.81,13.94,7-nov-2021
+132,Chiapas,Comitán de Domínguez,25.81,13.94,7-nov-2021
+132,Chiapas,La Concordia,25.81,13.94,7-nov-2021
+132,Chiapas,Chicomuselo,25.81,13.94,7-nov-2021
+132,Chiapas,Frontera Comalapa,24.03,12.98,7-nov-2021
+132,Chiapas,La Grandeza,25.81,13.94,7-nov-2021
+132,Chiapas,La Independencia,25.81,13.94,7-nov-2021
+132,Chiapas,Las Margaritas,24.03,12.98,7-nov-2021
+132,Chiapas,Mazapa de Madero,24.03,12.98,7-nov-2021
+132,Chiapas,El Porvenir,25.81,13.94,7-nov-2021
+132,Chiapas,Las Rosas,25.81,13.94,7-nov-2021
+132,Chiapas,Siltepec,25.81,13.94,7-nov-2021
+132,Chiapas,Socoltenango,25.81,13.94,7-nov-2021
+132,Chiapas,La Trinitaria,24.03,12.98,7-nov-2021
+132,Chiapas,Tzimol,25.81,13.94,7-nov-2021
+132,Chiapas,Venustiano Carranza,25.81,13.94,7-nov-2021
+132,Chiapas,Benemérito de las Américas,24.03,12.98,7-nov-2021
+132,Chiapas,Maravilla Tenejapa,24.03,12.98,7-nov-2021
+132,Chiapas,Marqués de Comillas,24.03,12.98,7-nov-2021
+132,Chiapas,Montecristo de Guerrero,25.81,13.94,7-nov-2021
+133,Chiapas,Cacahoatán,24.85,13.42,7-nov-2021
+133,Chiapas,Frontera Hidalgo,24.85,13.42,7-nov-2021
+133,Chiapas,Huehuetán,26.69,14.41,7-nov-2021
+133,Chiapas,Huixtla,26.69,14.41,7-nov-2021
+133,Chiapas,Mazatán,26.69,14.41,7-nov-2021
+133,Chiapas,Metapa,24.85,13.42,7-nov-2021
+133,Chiapas,Motozintla,24.85,13.42,7-nov-2021
+133,Chiapas,Villa Comaltitlán,26.69,14.41,7-nov-2021
+133,Chiapas,Suchiate,24.85,13.42,7-nov-2021
+133,Chiapas,Tapachula,24.85,13.42,7-nov-2021
+133,Chiapas,Tuxtla Chico,24.85,13.42,7-nov-2021
+133,Chiapas,Tuzantán,26.69,14.41,7-nov-2021
+133,Chiapas,Unión Juárez,24.85,13.42,7-nov-2021
+134,Oaxaca,Abejones,24.24,13.09,7-nov-2021
+134,Oaxaca,Asunción Cacalotepec,24.24,13.09,7-nov-2021
+134,Oaxaca,Asunción Cuyotepeji,24.24,13.09,7-nov-2021
+134,Oaxaca,Asunción Nochixtlán,24.24,13.09,7-nov-2021
+134,Oaxaca,Asunción Ocotlán,24.24,13.09,7-nov-2021
+134,Oaxaca,Calihualá,24.24,13.09,7-nov-2021
+134,Oaxaca,Ciénega de Zimatlán,24.24,13.09,7-nov-2021
+134,Oaxaca,Coatecas Altas,24.24,13.09,7-nov-2021
+134,Oaxaca,Coicoyán de las Flores,24.24,13.09,7-nov-2021
+134,Oaxaca,La Compañía,24.24,13.09,7-nov-2021
+134,Oaxaca,Concepción Pápalo,24.24,13.09,7-nov-2021
+134,Oaxaca,Constancia del Rosario,24.24,13.09,7-nov-2021
+134,Oaxaca,Cuilápam de Guerrero,24.24,13.09,7-nov-2021
+134,Oaxaca,Cuyamecalco Villa de Zaragoza,24.24,13.09,7-nov-2021
+134,Oaxaca,Chalcatongo de Hidalgo,24.24,13.09,7-nov-2021
+134,Oaxaca,Chiquihuitlán de Benito Juárez,24.24,13.09,7-nov-2021
+134,Oaxaca,Heroica Ciudad de Ejutla de Crespo,24.24,13.09,7-nov-2021
+134,Oaxaca,Tamazulápam del Espíritu Santo,24.24,13.09,7-nov-2021
+134,Oaxaca,Fresnillo de Trujano,24.24,13.09,7-nov-2021
+134,Oaxaca,Guadalupe Etla,24.24,13.09,7-nov-2021
+134,Oaxaca,Guadalupe de Ramírez,24.24,13.09,7-nov-2021
+134,Oaxaca,Guelatao de Juárez,24.24,13.09,7-nov-2021
+134,Oaxaca,Villa Hidalgo,24.24,13.09,7-nov-2021
+134,Oaxaca,Heroica Ciudad de Huajuapan de León,24.24,13.09,7-nov-2021
+134,Oaxaca,Ixtlán de Juárez,24.24,13.09,7-nov-2021
+134,Oaxaca,Magdalena Apasco,24.24,13.09,7-nov-2021
+134,Oaxaca,Magdalena Jaltepec,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa Magdalena Jicotlán,24.24,13.09,7-nov-2021
+134,Oaxaca,Magdalena Mixtepec,24.24,13.09,7-nov-2021
+134,Oaxaca,Magdalena Ocotlán,24.24,13.09,7-nov-2021
+134,Oaxaca,Magdalena Peñasco,24.24,13.09,7-nov-2021
+134,Oaxaca,Magdalena Teitipac,24.24,13.09,7-nov-2021
+134,Oaxaca,Magdalena Zahuatlán,24.24,13.09,7-nov-2021
+134,Oaxaca,Mariscala de Juárez,24.24,13.09,7-nov-2021
+134,Oaxaca,Mazatlán Villa de Flores,24.24,13.09,7-nov-2021
+134,Oaxaca,Mixistlán de la Reforma,24.24,13.09,7-nov-2021
+134,Oaxaca,Natividad,24.24,13.09,7-nov-2021
+134,Oaxaca,Nazareno Etla,24.24,13.09,7-nov-2021
+134,Oaxaca,Ixpantepec Nieves,24.24,13.09,7-nov-2021
+134,Oaxaca,Oaxaca de Juárez,24.24,13.09,7-nov-2021
+134,Oaxaca,Ocotlán de Morelos,24.24,13.09,7-nov-2021
+134,Oaxaca,La Pe,24.24,13.09,7-nov-2021
+134,Oaxaca,San José del Progreso,24.24,13.09,7-nov-2021
+134,Oaxaca,Putla Villa de Guerrero,24.24,13.09,7-nov-2021
+134,Oaxaca,Reyes Etla,24.24,13.09,7-nov-2021
+134,Oaxaca,Rojas de Cuauhtémoc,24.24,13.09,7-nov-2021
+134,Oaxaca,San Agustín Amatengo,24.24,13.09,7-nov-2021
+134,Oaxaca,San Agustín Atenango,24.24,13.09,7-nov-2021
+134,Oaxaca,San Agustín de las Juntas,24.24,13.09,7-nov-2021
+134,Oaxaca,San Agustín Etla,24.24,13.09,7-nov-2021
+134,Oaxaca,San Agustín Tlacotepec,24.24,13.09,7-nov-2021
+134,Oaxaca,San Agustín Yatareni,24.24,13.09,7-nov-2021
+134,Oaxaca,San Andrés Dinicuiti,24.24,13.09,7-nov-2021
+134,Oaxaca,San Andrés Huayápam,24.24,13.09,7-nov-2021
+134,Oaxaca,San Andrés Ixtlahuaca,24.24,13.09,7-nov-2021
+134,Oaxaca,San Andrés Lagunas,24.24,13.09,7-nov-2021
+134,Oaxaca,San Andrés Nuxiño,24.24,13.09,7-nov-2021
+134,Oaxaca,San Andrés Sinaxtla,24.24,13.09,7-nov-2021
+134,Oaxaca,San Andrés Solaga,24.24,13.09,7-nov-2021
+134,Oaxaca,San Andrés Tepetlapa,24.24,13.09,7-nov-2021
+134,Oaxaca,San Andrés Yaá,24.24,13.09,7-nov-2021
+134,Oaxaca,San Andrés Zabache,24.24,13.09,7-nov-2021
+134,Oaxaca,San Andrés Zautla,24.24,13.09,7-nov-2021
+134,Oaxaca,San Antonino Castillo Velasco,24.24,13.09,7-nov-2021
+134,Oaxaca,San Antonino el Alto,24.24,13.09,7-nov-2021
+134,Oaxaca,San Antonino Monte Verde,24.24,13.09,7-nov-2021
+134,Oaxaca,San Antonio Acutla,24.24,13.09,7-nov-2021
+134,Oaxaca,San Antonio de la Cal,24.24,13.09,7-nov-2021
+134,Oaxaca,San Antonio Huitepec,24.24,13.09,7-nov-2021
+134,Oaxaca,San Antonio Sinicahua,24.24,13.09,7-nov-2021
+134,Oaxaca,San Baltazar Chichicápam,24.24,13.09,7-nov-2021
+134,Oaxaca,San Baltazar Yatzachi el Bajo,24.24,13.09,7-nov-2021
+134,Oaxaca,San Bartolo Coyotepec,24.24,13.09,7-nov-2021
+134,Oaxaca,San Bartolomé Quialana,24.24,13.09,7-nov-2021
+134,Oaxaca,San Bartolomé Yucuañe,24.24,13.09,7-nov-2021
+134,Oaxaca,San Bartolomé Zoogocho,24.24,13.09,7-nov-2021
+134,Oaxaca,San Bartolo Soyaltepec,24.24,13.09,7-nov-2021
+134,Oaxaca,San Bernardo Mixtepec,24.24,13.09,7-nov-2021
+134,Oaxaca,San Cristóbal Amoltepec,24.24,13.09,7-nov-2021
+134,Oaxaca,San Cristóbal Lachirioag,24.24,13.09,7-nov-2021
+134,Oaxaca,San Cristóbal Suchixtlahuaca,24.24,13.09,7-nov-2021
+134,Oaxaca,San Dionisio Ocotepec,24.24,13.09,7-nov-2021
+134,Oaxaca,San Dionisio Ocotlán,24.24,13.09,7-nov-2021
+134,Oaxaca,San Esteban Atatlahuca,24.24,13.09,7-nov-2021
+134,Oaxaca,San Felipe Tejalápam,24.24,13.09,7-nov-2021
+134,Oaxaca,San Francisco Cahuacuá,24.24,13.09,7-nov-2021
+134,Oaxaca,San Francisco Cajonos,24.24,13.09,7-nov-2021
+134,Oaxaca,San Francisco Chindúa,24.24,13.09,7-nov-2021
+134,Oaxaca,San Francisco Jaltepetongo,24.24,13.09,7-nov-2021
+134,Oaxaca,San Francisco Lachigoló,24.24,13.09,7-nov-2021
+134,Oaxaca,San Francisco Nuxaño,24.24,13.09,7-nov-2021
+134,Oaxaca,San Francisco Sola,24.24,13.09,7-nov-2021
+134,Oaxaca,San Francisco Telixtlahuaca,24.24,13.09,7-nov-2021
+134,Oaxaca,San Francisco Tlapancingo,24.24,13.09,7-nov-2021
+134,Oaxaca,San Ildefonso Sola,24.24,13.09,7-nov-2021
+134,Oaxaca,San Ildefonso Villa Alta,24.24,13.09,7-nov-2021
+134,Oaxaca,San Jacinto Amilpas,24.24,13.09,7-nov-2021
+134,Oaxaca,San Jacinto Tlacotepec,24.24,13.09,7-nov-2021
+134,Oaxaca,San Jerónimo Silacayoapilla,24.24,13.09,7-nov-2021
+134,Oaxaca,San Jerónimo Sosola,24.24,13.09,7-nov-2021
+134,Oaxaca,San Jerónimo Taviche,24.24,13.09,7-nov-2021
+134,Oaxaca,San Jorge Nuchita,24.24,13.09,7-nov-2021
+134,Oaxaca,San José Ayuquila,24.24,13.09,7-nov-2021
+134,Oaxaca,San Juan Achiutla,24.24,13.09,7-nov-2021
+134,Oaxaca,San Juan Atepec,24.24,13.09,7-nov-2021
+134,Oaxaca,Ánimas Trujano,24.24,13.09,7-nov-2021
+134,Oaxaca,San Juan Bautista Atatlahuca,24.24,13.09,7-nov-2021
+134,Oaxaca,San Juan Bautista Coixtlahuaca,24.24,13.09,7-nov-2021
+134,Oaxaca,San Juan Bautista Cuicatlán,24.24,13.09,7-nov-2021
+134,Oaxaca,San Juan Bautista Guelache,24.24,13.09,7-nov-2021
+134,Oaxaca,San Juan Bautista Jayacatlán,24.24,13.09,7-nov-2021
+134,Oaxaca,San Juan Bautista Tlachichilco,24.24,13.09,7-nov-2021
+134,Oaxaca,San Juan Cieneguilla,24.24,13.09,7-nov-2021
+134,Oaxaca,San Juan Comaltepec,24.24,13.09,7-nov-2021
+134,Oaxaca,San Juan Chicomezúchil,24.24,13.09,7-nov-2021
+134,Oaxaca,San Juan Chilateca,24.24,13.09,7-nov-2021
+134,Oaxaca,San Juan del Estado,24.24,13.09,7-nov-2021
+134,Oaxaca,San Juan del Río,24.24,13.09,7-nov-2021
+134,Oaxaca,San Juan Diuxi,24.24,13.09,7-nov-2021
+134,Oaxaca,San Juan Evangelista Analco,24.24,13.09,7-nov-2021
+134,Oaxaca,San Juan Guelavía,24.24,13.09,7-nov-2021
+134,Oaxaca,San Juan Ihualtepec,24.24,13.09,7-nov-2021
+134,Oaxaca,San Juan Juquila Mixes,24.24,13.09,7-nov-2021
+134,Oaxaca,San Juan Juquila Vijanos,24.24,13.09,7-nov-2021
+134,Oaxaca,San Juan Lachigalla,24.24,13.09,7-nov-2021
+134,Oaxaca,San Juan Lalana,24.24,13.09,7-nov-2021
+134,Oaxaca,San Juan Mixtepec,24.24,13.09,7-nov-2021
+134,Oaxaca,San Juan Ñumí,24.24,13.09,7-nov-2021
+134,Oaxaca,San Juan Petlapa,24.24,13.09,7-nov-2021
+134,Oaxaca,San Juan Quiotepec,24.24,13.09,7-nov-2021
+134,Oaxaca,San Juan Sayultepec,24.24,13.09,7-nov-2021
+134,Oaxaca,San Juan Tabaá,24.24,13.09,7-nov-2021
+134,Oaxaca,San Juan Tamazola,24.24,13.09,7-nov-2021
+134,Oaxaca,San Juan Teita,24.24,13.09,7-nov-2021
+134,Oaxaca,San Juan Teitipac,24.24,13.09,7-nov-2021
+134,Oaxaca,San Juan Tepeuxila,24.24,13.09,7-nov-2021
+134,Oaxaca,San Juan Teposcolula,24.24,13.09,7-nov-2021
+134,Oaxaca,San Juan Yaeé,24.24,13.09,7-nov-2021
+134,Oaxaca,San Juan Yatzona,24.24,13.09,7-nov-2021
+134,Oaxaca,San Juan Yucuita,24.24,13.09,7-nov-2021
+134,Oaxaca,San Lorenzo Albarradas,24.24,13.09,7-nov-2021
+134,Oaxaca,San Lorenzo Cacaotepec,24.24,13.09,7-nov-2021
+134,Oaxaca,San Lorenzo Texmelúcan,24.24,13.09,7-nov-2021
+134,Oaxaca,San Lorenzo Victoria,24.24,13.09,7-nov-2021
+134,Oaxaca,San Lucas Quiaviní,24.24,13.09,7-nov-2021
+134,Oaxaca,San Marcos Arteaga,24.24,13.09,7-nov-2021
+134,Oaxaca,San Martín de los Cansecos,24.24,13.09,7-nov-2021
+134,Oaxaca,San Martín Huamelúlpam,24.24,13.09,7-nov-2021
+134,Oaxaca,San Martín Itunyoso,24.24,13.09,7-nov-2021
+134,Oaxaca,San Martín Lachilá,24.24,13.09,7-nov-2021
+134,Oaxaca,San Martín Peras,24.24,13.09,7-nov-2021
+134,Oaxaca,San Martín Tilcajete,24.24,13.09,7-nov-2021
+134,Oaxaca,San Martín Zacatepec,24.24,13.09,7-nov-2021
+134,Oaxaca,San Mateo Cajonos,24.24,13.09,7-nov-2021
+134,Oaxaca,Capulálpam de Méndez,24.24,13.09,7-nov-2021
+134,Oaxaca,San Mateo Etlatongo,24.24,13.09,7-nov-2021
+134,Oaxaca,San Mateo Nejápam,24.24,13.09,7-nov-2021
+134,Oaxaca,San Mateo Peñasco,24.24,13.09,7-nov-2021
+134,Oaxaca,San Mateo Sindihui,24.24,13.09,7-nov-2021
+134,Oaxaca,San Mateo Tlapiltepec,24.24,13.09,7-nov-2021
+134,Oaxaca,San Melchor Betaza,24.24,13.09,7-nov-2021
+134,Oaxaca,San Miguel Achiutla,24.24,13.09,7-nov-2021
+134,Oaxaca,San Miguel Ahuehuetitlán,24.24,13.09,7-nov-2021
+134,Oaxaca,San Miguel Aloápam,24.24,13.09,7-nov-2021
+134,Oaxaca,San Miguel Amatitlán,24.24,13.09,7-nov-2021
+134,Oaxaca,San Miguel Amatlán,24.24,13.09,7-nov-2021
+134,Oaxaca,San Miguel Chicahua,24.24,13.09,7-nov-2021
+134,Oaxaca,San Miguel del Río,24.24,13.09,7-nov-2021
+134,Oaxaca,San Miguel Ejutla,24.24,13.09,7-nov-2021
+134,Oaxaca,San Miguel el Grande,24.24,13.09,7-nov-2021
+134,Oaxaca,San Miguel Huautla,24.24,13.09,7-nov-2021
+134,Oaxaca,San Miguel Mixtepec,24.24,13.09,7-nov-2021
+134,Oaxaca,San Miguel Peras,24.24,13.09,7-nov-2021
+134,Oaxaca,San Miguel Piedras,24.24,13.09,7-nov-2021
+134,Oaxaca,San Miguel Santa Flor,24.24,13.09,7-nov-2021
+134,Oaxaca,Villa Sola de Vega,24.24,13.09,7-nov-2021
+134,Oaxaca,Villa Talea de Castro,24.24,13.09,7-nov-2021
+134,Oaxaca,San Miguel Tecomatlán,24.24,13.09,7-nov-2021
+134,Oaxaca,San Miguel Tequixtepec,24.24,13.09,7-nov-2021
+134,Oaxaca,San Miguel Tilquiápam,24.24,13.09,7-nov-2021
+134,Oaxaca,San Miguel Tlacotepec,24.24,13.09,7-nov-2021
+134,Oaxaca,San Miguel Tulancingo,24.24,13.09,7-nov-2021
+134,Oaxaca,San Miguel Yotao,24.24,13.09,7-nov-2021
+134,Oaxaca,San Nicolás,24.24,13.09,7-nov-2021
+134,Oaxaca,San Nicolás Hidalgo,24.24,13.09,7-nov-2021
+134,Oaxaca,San Pablo Cuatro Venados,24.24,13.09,7-nov-2021
+134,Oaxaca,San Pablo Etla,24.24,13.09,7-nov-2021
+134,Oaxaca,San Pablo Huitzo,24.24,13.09,7-nov-2021
+134,Oaxaca,San Pablo Huixtepec,24.24,13.09,7-nov-2021
+134,Oaxaca,San Pablo Macuiltianguis,24.24,13.09,7-nov-2021
+134,Oaxaca,San Pablo Tijaltepec,24.24,13.09,7-nov-2021
+134,Oaxaca,San Pablo Villa de Mitla,24.24,13.09,7-nov-2021
+134,Oaxaca,San Pablo Yaganiza,24.24,13.09,7-nov-2021
+134,Oaxaca,San Pedro Apóstol,24.24,13.09,7-nov-2021
+134,Oaxaca,San Pedro Cajonos,24.24,13.09,7-nov-2021
+134,Oaxaca,San Pedro Coxcaltepec Cántaros,24.24,13.09,7-nov-2021
+134,Oaxaca,San Pedro Ixtlahuaca,24.24,13.09,7-nov-2021
+134,Oaxaca,San Pedro Jaltepetongo,24.24,13.09,7-nov-2021
+134,Oaxaca,San Pedro Jocotipac,24.24,13.09,7-nov-2021
+134,Oaxaca,San Pedro Mártir,24.24,13.09,7-nov-2021
+134,Oaxaca,San Pedro Mártir Yucuxaco,24.24,13.09,7-nov-2021
+134,Oaxaca,San Pedro Molinos,24.24,13.09,7-nov-2021
+134,Oaxaca,San Pedro Nopala,24.24,13.09,7-nov-2021
+134,Oaxaca,San Pedro Ocotepec,24.24,13.09,7-nov-2021
+134,Oaxaca,San Pedro Quiatoni,24.24,13.09,7-nov-2021
+134,Oaxaca,San Pedro Taviche,24.24,13.09,7-nov-2021
+134,Oaxaca,San Pedro Teozacoalco,24.24,13.09,7-nov-2021
+134,Oaxaca,San Pedro Tidaá,24.24,13.09,7-nov-2021
+134,Oaxaca,San Pedro Topiltepec,24.24,13.09,7-nov-2021
+134,Oaxaca,San Pedro Totolápam,24.24,13.09,7-nov-2021
+134,Oaxaca,San Pedro Yaneri,24.24,13.09,7-nov-2021
+134,Oaxaca,San Pedro Yólox,24.24,13.09,7-nov-2021
+134,Oaxaca,San Pedro y San Pablo Ayutla,24.24,13.09,7-nov-2021
+134,Oaxaca,Villa de Etla,24.24,13.09,7-nov-2021
+134,Oaxaca,San Pedro y San Pablo Teposcolula,24.24,13.09,7-nov-2021
+134,Oaxaca,San Pedro Yucunama,24.24,13.09,7-nov-2021
+134,Oaxaca,San Raymundo Jalpan,24.24,13.09,7-nov-2021
+134,Oaxaca,San Sebastián Abasolo,24.24,13.09,7-nov-2021
+134,Oaxaca,San Sebastián Nicananduta,24.24,13.09,7-nov-2021
+134,Oaxaca,San Sebastián Tecomaxtlahuaca,24.24,13.09,7-nov-2021
+134,Oaxaca,San Sebastián Teitipac,24.24,13.09,7-nov-2021
+134,Oaxaca,San Sebastián Tutla,24.24,13.09,7-nov-2021
+134,Oaxaca,San Simón Almolongas,24.24,13.09,7-nov-2021
+134,Oaxaca,San Simón Zahuatlán,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa Ana Cuauhtémoc,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa Ana del Valle,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa Ana Tlapacoyan,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa Ana Yareni,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa Ana Zegache,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa Catarina Ixtepeji,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa Catarina Lachatao,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa Catarina Minas,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa Catarina Quiané,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa Catarina Tayata,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa Catarina Ticuá,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa Catarina Yosonotú,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa Cruz Amilpas,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa Cruz de Bravo,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa Cruz Mixtepec,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa Cruz Nundaco,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa Cruz Papalutla,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa Cruz Tacache de Mina,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa Cruz Tacahua,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa Cruz Tayata,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa Cruz Xitla,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa Cruz Xoxocotlán,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa Gertrudis,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa Inés del Monte,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa Inés Yatzeche,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa Lucía del Camino,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa Lucía Monteverde,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa Lucía Ocotlán,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa María Alotepec,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa María Apazco,24.24,13.09,7-nov-2021
+134,Oaxaca,Heroica Ciudad de Tlaxiaco,24.24,13.09,7-nov-2021
+134,Oaxaca,Ayoquezco de Aldama,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa María Atzompa,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa María Camotlán,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa María Coyotepec,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa María Chachoápam,24.24,13.09,7-nov-2021
+134,Oaxaca,Villa de Chilapa de Díaz,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa María del Rosario,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa María del Tule,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa María Guelacé,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa María Ixcatlán,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa María Jaltianguis,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa María Lachixío,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa María Nativitas,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa María Nduayaco,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa María Pápalo,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa María Peñoles,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa María Sola,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa María Tataltepec,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa María Tecomavaca,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa María Temaxcalapa,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa María Tepantlali,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa María Texcatitlán,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa María Tlahuitoltepec,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa María Yalina,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa María Yavesía,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa María Yolotepec,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa María Yosoyúa,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa María Yucuhiti,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa María Zaniza,24.24,13.09,7-nov-2021
+134,Oaxaca,Santiago Apoala,24.24,13.09,7-nov-2021
+134,Oaxaca,Santiago Apóstol,24.24,13.09,7-nov-2021
+134,Oaxaca,Santiago Atitlán,24.24,13.09,7-nov-2021
+134,Oaxaca,Santiago Ayuquililla,24.24,13.09,7-nov-2021
+134,Oaxaca,Santiago Cacaloxtepec,24.24,13.09,7-nov-2021
+134,Oaxaca,Santiago Camotlán,24.24,13.09,7-nov-2021
+134,Oaxaca,Santiago Comaltepec,24.24,13.09,7-nov-2021
+134,Oaxaca,Santiago Choápam,24.24,13.09,7-nov-2021
+134,Oaxaca,Santiago del Río,24.24,13.09,7-nov-2021
+134,Oaxaca,Santiago Huajolotitlán,24.24,13.09,7-nov-2021
+134,Oaxaca,Santiago Huauclilla,24.24,13.09,7-nov-2021
+134,Oaxaca,Santiago Jocotepec,24.24,13.09,7-nov-2021
+134,Oaxaca,Santiago Juxtlahuaca,24.24,13.09,7-nov-2021
+134,Oaxaca,Santiago Lalopa,24.24,13.09,7-nov-2021
+134,Oaxaca,Santiago Laxopa,24.24,13.09,7-nov-2021
+134,Oaxaca,Santiago Matatlán,24.24,13.09,7-nov-2021
+134,Oaxaca,Santiago Miltepec,24.24,13.09,7-nov-2021
+134,Oaxaca,Santiago Nacaltepec,24.24,13.09,7-nov-2021
+134,Oaxaca,Santiago Nejapilla,24.24,13.09,7-nov-2021
+134,Oaxaca,Santiago Nundiche,24.24,13.09,7-nov-2021
+134,Oaxaca,Santiago Nuyoó,24.24,13.09,7-nov-2021
+134,Oaxaca,Santiago Suchilquitongo,24.24,13.09,7-nov-2021
+134,Oaxaca,Santiago Tamazola,24.24,13.09,7-nov-2021
+134,Oaxaca,Villa Tejúpam de la Unión,24.24,13.09,7-nov-2021
+134,Oaxaca,Santiago Tenango,24.24,13.09,7-nov-2021
+134,Oaxaca,Santiago Tepetlapa,24.24,13.09,7-nov-2021
+134,Oaxaca,Santiago Textitlán,24.24,13.09,7-nov-2021
+134,Oaxaca,Santiago Tilantongo,24.24,13.09,7-nov-2021
+134,Oaxaca,Santiago Tillo,24.24,13.09,7-nov-2021
+134,Oaxaca,Santiago Tlazoyaltepec,24.24,13.09,7-nov-2021
+134,Oaxaca,Santiago Xiacuí,24.24,13.09,7-nov-2021
+134,Oaxaca,Santiago Yolomécatl,24.24,13.09,7-nov-2021
+134,Oaxaca,Santiago Yosondúa,24.24,13.09,7-nov-2021
+134,Oaxaca,Santiago Yucuyachi,24.24,13.09,7-nov-2021
+134,Oaxaca,Santiago Zacatepec,24.24,13.09,7-nov-2021
+134,Oaxaca,Santiago Zoochila,24.24,13.09,7-nov-2021
+134,Oaxaca,Nuevo Zoquiápam,24.24,13.09,7-nov-2021
+134,Oaxaca,Santo Domingo Albarradas,24.24,13.09,7-nov-2021
+134,Oaxaca,Santo Domingo Ixcatlán,24.24,13.09,7-nov-2021
+134,Oaxaca,Santo Domingo Nuxaá,24.24,13.09,7-nov-2021
+134,Oaxaca,Santo Domingo Roayaga,24.24,13.09,7-nov-2021
+134,Oaxaca,Santo Domingo Teojomulco,24.24,13.09,7-nov-2021
+134,Oaxaca,Santo Domingo Tepuxtepec,24.24,13.09,7-nov-2021
+134,Oaxaca,Santo Domingo Tlatayápam,24.24,13.09,7-nov-2021
+134,Oaxaca,Santo Domingo Tomaltepec,24.24,13.09,7-nov-2021
+134,Oaxaca,Santo Domingo Tonalá,24.24,13.09,7-nov-2021
+134,Oaxaca,Santo Domingo Tonaltepec,24.24,13.09,7-nov-2021
+134,Oaxaca,Santo Domingo Xagacía,24.24,13.09,7-nov-2021
+134,Oaxaca,Santo Domingo Yanhuitlán,24.24,13.09,7-nov-2021
+134,Oaxaca,Santo Domingo Yodohino,24.24,13.09,7-nov-2021
+134,Oaxaca,Santos Reyes Pápalo,24.24,13.09,7-nov-2021
+134,Oaxaca,Santos Reyes Tepejillo,24.24,13.09,7-nov-2021
+134,Oaxaca,Santos Reyes Yucuná,24.24,13.09,7-nov-2021
+134,Oaxaca,Santo Tomás Jalieza,24.24,13.09,7-nov-2021
+134,Oaxaca,Santo Tomás Mazaltepec,24.24,13.09,7-nov-2021
+134,Oaxaca,Santo Tomás Ocotepec,24.24,13.09,7-nov-2021
+134,Oaxaca,San Vicente Coatlán,24.24,13.09,7-nov-2021
+134,Oaxaca,San Vicente Lachixío,24.24,13.09,7-nov-2021
+134,Oaxaca,San Vicente Nuñú,24.24,13.09,7-nov-2021
+134,Oaxaca,Silacayoápam,24.24,13.09,7-nov-2021
+134,Oaxaca,Soledad Etla,24.24,13.09,7-nov-2021
+134,Oaxaca,Villa de Tamazulápam del Progreso,24.24,13.09,7-nov-2021
+134,Oaxaca,Tanetze de Zaragoza,24.24,13.09,7-nov-2021
+134,Oaxaca,Taniche,24.24,13.09,7-nov-2021
+134,Oaxaca,Teococuilco de Marcos Pérez,24.24,13.09,7-nov-2021
+134,Oaxaca,Teotitlán del Valle,24.24,13.09,7-nov-2021
+134,Oaxaca,Teotongo,24.24,13.09,7-nov-2021
+134,Oaxaca,"Heroica Villa Tezoatlán de Segura y Luna,",24.24,13.09,7-nov-2021
+134,Oaxaca,San Jerónimo Tlacochahuaya,24.24,13.09,7-nov-2021
+134,Oaxaca,Tlacolula de Matamoros,24.24,13.09,7-nov-2021
+134,Oaxaca,Tlalixtac de Cabrera,24.24,13.09,7-nov-2021
+134,Oaxaca,Totontepec Villa de Morelos,24.24,13.09,7-nov-2021
+134,Oaxaca,Trinidad Zaachila,24.24,13.09,7-nov-2021
+134,Oaxaca,La Trinidad Vista Hermosa,24.24,13.09,7-nov-2021
+134,Oaxaca,Valerio Trujano,24.24,13.09,7-nov-2021
+134,Oaxaca,Villa Díaz Ordaz,24.24,13.09,7-nov-2021
+134,Oaxaca,Yaxe,24.24,13.09,7-nov-2021
+134,Oaxaca,Magdalena Yodocono de Porfirio Díaz,24.24,13.09,7-nov-2021
+134,Oaxaca,Yogana,24.24,13.09,7-nov-2021
+134,Oaxaca,Yutanduchi de Guerrero,24.24,13.09,7-nov-2021
+134,Oaxaca,Villa de Zaachila,24.24,13.09,7-nov-2021
+134,Oaxaca,San Mateo Yucutindoo,24.24,13.09,7-nov-2021
+134,Oaxaca,Zapotitlán Lagunas,24.24,13.09,7-nov-2021
+134,Oaxaca,Zapotitlán Palmas,24.24,13.09,7-nov-2021
+134,Oaxaca,Santa Inés de Zaragoza,24.24,13.09,7-nov-2021
+134,Oaxaca,Zimatlán de Álvarez,24.24,13.09,7-nov-2021
+135,Oaxaca,El Barrio de la Soledad,26.16,14.12,7-nov-2021
+135,Oaxaca,Candelaria Loxicha,26.16,14.12,7-nov-2021
+135,Oaxaca,Guevea de Humboldt,26.16,14.12,7-nov-2021
+135,Oaxaca,Matías Romero Avendaño,26.16,14.12,7-nov-2021
+135,Oaxaca,Miahuatlán de Porfirio Díaz,26.16,14.12,7-nov-2021
+135,Oaxaca,Monjas,26.16,14.12,7-nov-2021
+135,Oaxaca,Nejapa de Madero,26.16,14.12,7-nov-2021
+135,Oaxaca,Pluma Hidalgo,26.16,14.12,7-nov-2021
+135,Oaxaca,Santa Catarina Quioquitani,26.16,14.12,7-nov-2021
+135,Oaxaca,San Agustín Loxicha,26.16,14.12,7-nov-2021
+135,Oaxaca,San Andrés Paxtlán,26.16,14.12,7-nov-2021
+135,Oaxaca,San Baltazar Loxicha,26.16,14.12,7-nov-2021
+135,Oaxaca,San Bartolomé Loxicha,26.16,14.12,7-nov-2021
+135,Oaxaca,San Bartolo Yautepec,26.16,14.12,7-nov-2021
+135,Oaxaca,San Carlos Yautepec,26.16,14.12,7-nov-2021
+135,Oaxaca,San Cristóbal Amatlán,26.16,14.12,7-nov-2021
+135,Oaxaca,San Francisco Logueche,26.16,14.12,7-nov-2021
+135,Oaxaca,San Francisco Ozolotepec,26.16,14.12,7-nov-2021
+135,Oaxaca,San Ildefonso Amatlán,26.16,14.12,7-nov-2021
+135,Oaxaca,San José del Peñasco,26.16,14.12,7-nov-2021
+135,Oaxaca,San José Lachiguiri,26.16,14.12,7-nov-2021
+135,Oaxaca,San Juan Cotzocón,26.16,14.12,7-nov-2021
+135,Oaxaca,San Juan Guichicovi,26.16,14.12,7-nov-2021
+135,Oaxaca,San Juan Lajarcia,26.16,14.12,7-nov-2021
+135,Oaxaca,San Juan Mazatlán,26.16,14.12,7-nov-2021
+135,Oaxaca,San Juan Mixtepec,26.16,14.12,7-nov-2021
+135,Oaxaca,San Juan Ozolotepec,26.16,14.12,7-nov-2021
+135,Oaxaca,San Lucas Camotlán,26.16,14.12,7-nov-2021
+135,Oaxaca,San Luis Amatlán,26.16,14.12,7-nov-2021
+135,Oaxaca,San Marcial Ozolotepec,26.16,14.12,7-nov-2021
+135,Oaxaca,San Mateo Piñas,26.16,14.12,7-nov-2021
+135,Oaxaca,San Mateo Río Hondo,26.16,14.12,7-nov-2021
+135,Oaxaca,San Miguel Coatlán,26.16,14.12,7-nov-2021
+135,Oaxaca,San Miguel del Puerto,26.16,14.12,7-nov-2021
+135,Oaxaca,San Miguel Quetzaltepec,26.16,14.12,7-nov-2021
+135,Oaxaca,San Miguel Suchixtepec,26.16,14.12,7-nov-2021
+135,Oaxaca,San Pablo Coatlán,26.16,14.12,7-nov-2021
+135,Oaxaca,San Pedro el Alto,26.16,14.12,7-nov-2021
+135,Oaxaca,San Pedro Mártir Quiechapa,26.16,14.12,7-nov-2021
+135,Oaxaca,San Pedro Mixtepec,26.16,14.12,7-nov-2021
+135,Oaxaca,San Pedro Pochutla,26.16,14.12,7-nov-2021
+135,Oaxaca,San Sebastián Río Hondo,26.16,14.12,7-nov-2021
+135,Oaxaca,Santa Ana,26.16,14.12,7-nov-2021
+135,Oaxaca,Santa Ana Tavela,26.16,14.12,7-nov-2021
+135,Oaxaca,Santa Catalina Quierí,26.16,14.12,7-nov-2021
+135,Oaxaca,Santa Catarina Cuixtla,26.16,14.12,7-nov-2021
+135,Oaxaca,Santa Catarina Loxicha,26.16,14.12,7-nov-2021
+135,Oaxaca,Santa Lucía Miahuatlán,26.16,14.12,7-nov-2021
+135,Oaxaca,Santa María Colotepec,26.16,14.12,7-nov-2021
+135,Oaxaca,Santa María Chimalapa,26.16,14.12,7-nov-2021
+135,Oaxaca,Santa María Guienagati,26.16,14.12,7-nov-2021
+135,Oaxaca,Santa María Huatulco,26.16,14.12,7-nov-2021
+135,Oaxaca,Santa María Ozolotepec,26.16,14.12,7-nov-2021
+135,Oaxaca,Santa María Petapa,26.16,14.12,7-nov-2021
+135,Oaxaca,Santa María Quiegolani,26.16,14.12,7-nov-2021
+135,Oaxaca,Santa María Tonameca,26.16,14.12,7-nov-2021
+135,Oaxaca,Santa María Totolapilla,26.16,14.12,7-nov-2021
+135,Oaxaca,Santa María Zoquitlán,26.16,14.12,7-nov-2021
+135,Oaxaca,Santiago Ixcuintepec,26.16,14.12,7-nov-2021
+135,Oaxaca,Santiago Lachiguiri,26.16,14.12,7-nov-2021
+135,Oaxaca,Santiago Xanica,26.16,14.12,7-nov-2021
+135,Oaxaca,Santiago Yaveo,26.16,14.12,7-nov-2021
+135,Oaxaca,Santo Domingo de Morelos,26.16,14.12,7-nov-2021
+135,Oaxaca,Santo Domingo Ozolotepec,26.16,14.12,7-nov-2021
+135,Oaxaca,Santo Domingo Petapa,26.16,14.12,7-nov-2021
+135,Oaxaca,Santo Tomás Tamazulapan,26.16,14.12,7-nov-2021
+135,Oaxaca,Sitio de Xitlapehua,26.16,14.12,7-nov-2021
+136,Oaxaca,Asunción Ixtaltepec,26.01,14.04,7-nov-2021
+136,Oaxaca,Asunción Tlacolulita,26.01,14.04,7-nov-2021
+136,Oaxaca,Ciudad Ixtepec,26.01,14.04,7-nov-2021
+136,Oaxaca,Chahuites,26.01,14.04,7-nov-2021
+136,Oaxaca,El Espinal,26.01,14.04,7-nov-2021
+136,Oaxaca,Juchitán de Zaragoza,26.01,14.04,7-nov-2021
+136,Oaxaca,Magdalena Tequisistlán,26.01,14.04,7-nov-2021
+136,Oaxaca,Magdalena Tlacotepec,26.01,14.04,7-nov-2021
+136,Oaxaca,Santiago Niltepec,26.01,14.04,7-nov-2021
+136,Oaxaca,Reforma de Pineda,26.01,14.04,7-nov-2021
+136,Oaxaca,Salina Cruz,26.01,14.04,7-nov-2021
+136,Oaxaca,San Blas Atempa,26.01,14.04,7-nov-2021
+136,Oaxaca,San Dionisio del Mar,26.01,14.04,7-nov-2021
+136,Oaxaca,San Francisco del Mar,26.01,14.04,7-nov-2021
+136,Oaxaca,San Francisco Ixhuatán,26.01,14.04,7-nov-2021
+136,Oaxaca,San Mateo del Mar,26.01,14.04,7-nov-2021
+136,Oaxaca,San Miguel Chimalapa,26.01,14.04,7-nov-2021
+136,Oaxaca,San Miguel Tenango,26.01,14.04,7-nov-2021
+136,Oaxaca,San Pedro Comitancillo,26.01,14.04,7-nov-2021
+136,Oaxaca,San Pedro Huamelula,26.01,14.04,7-nov-2021
+136,Oaxaca,San Pedro Huilotepec,26.01,14.04,7-nov-2021
+136,Oaxaca,San Pedro Tapanatepec,26.01,14.04,7-nov-2021
+136,Oaxaca,Santa María Ecatepec,26.01,14.04,7-nov-2021
+136,Oaxaca,Santa María Jalapa del Marqués,26.01,14.04,7-nov-2021
+136,Oaxaca,Santa María Mixtequilla,26.01,14.04,7-nov-2021
+136,Oaxaca,Santa María Xadani,26.01,14.04,7-nov-2021
+136,Oaxaca,Santiago Astata,26.01,14.04,7-nov-2021
+136,Oaxaca,Santiago Laollaga,26.01,14.04,7-nov-2021
+136,Oaxaca,Santo Domingo Ingenio,26.01,14.04,7-nov-2021
+136,Oaxaca,Santo Domingo Chihuitán,26.01,14.04,7-nov-2021
+136,Oaxaca,Santo Domingo Tehuantepec,26.01,14.04,7-nov-2021
+136,Oaxaca,Santo Domingo Zanatepec,26.01,14.04,7-nov-2021
+136,Oaxaca,Unión Hidalgo,26.01,14.04,7-nov-2021
+137,Oaxaca,Mesones Hidalgo,26.65,14.39,7-nov-2021
+137,Oaxaca,Mártires de Tacubaya,26.65,14.39,7-nov-2021
+137,Oaxaca,Pinotepa de Don Luis,26.65,14.39,7-nov-2021
+137,Oaxaca,La Reforma,26.65,14.39,7-nov-2021
+137,Oaxaca,San Agustín Chayuco,26.65,14.39,7-nov-2021
+137,Oaxaca,San Andrés Cabecera Nueva,26.65,14.39,7-nov-2021
+137,Oaxaca,San Andrés Huaxpaltepec,26.65,14.39,7-nov-2021
+137,Oaxaca,San Antonio Tepetlapa,26.65,14.39,7-nov-2021
+137,Oaxaca,San Gabriel Mixtepec,26.65,14.39,7-nov-2021
+137,Oaxaca,San Jerónimo Coatlán,26.65,14.39,7-nov-2021
+137,Oaxaca,San José Estancia Grande,26.65,14.39,7-nov-2021
+137,Oaxaca,San Juan Bautista Lo de Soto,26.65,14.39,7-nov-2021
+137,Oaxaca,San Juan Cacahuatepec,26.65,14.39,7-nov-2021
+137,Oaxaca,San Juan Colorado,26.65,14.39,7-nov-2021
+137,Oaxaca,San Juan Lachao,26.65,14.39,7-nov-2021
+137,Oaxaca,San Juan Quiahije,26.65,14.39,7-nov-2021
+137,Oaxaca,San Lorenzo,26.65,14.39,7-nov-2021
+137,Oaxaca,San Miguel Panixtlahuaca,26.65,14.39,7-nov-2021
+137,Oaxaca,San Miguel Tlacamama,26.65,14.39,7-nov-2021
+137,Oaxaca,San Pedro Amuzgos,26.65,14.39,7-nov-2021
+137,Oaxaca,San Pedro Atoyac,26.65,14.39,7-nov-2021
+137,Oaxaca,San Pedro Jicayán,26.65,14.39,7-nov-2021
+137,Oaxaca,San Pedro Juchatengo,26.65,14.39,7-nov-2021
+137,Oaxaca,San Pedro Mixtepec,26.65,14.39,7-nov-2021
+137,Oaxaca,Villa de Tututepec,26.65,14.39,7-nov-2021
+137,Oaxaca,San Sebastián Coatlán,26.65,14.39,7-nov-2021
+137,Oaxaca,San Sebastián Ixcapa,26.65,14.39,7-nov-2021
+137,Oaxaca,Santa Catarina Juquila,26.65,14.39,7-nov-2021
+137,Oaxaca,Santa Catarina Mechoacán,26.65,14.39,7-nov-2021
+137,Oaxaca,Santa Cruz Itundujia,26.65,14.39,7-nov-2021
+137,Oaxaca,Santa Cruz Zenzontepec,26.65,14.39,7-nov-2021
+137,Oaxaca,Santa María Cortijo,26.65,14.39,7-nov-2021
+137,Oaxaca,Santa María Huazolotitlán,26.65,14.39,7-nov-2021
+137,Oaxaca,Santa María Ipalapa,26.65,14.39,7-nov-2021
+137,Oaxaca,Santa María Temaxcaltepec,26.65,14.39,7-nov-2021
+137,Oaxaca,Santa María Zacatepec,26.65,14.39,7-nov-2021
+137,Oaxaca,Santiago Amoltepec,26.65,14.39,7-nov-2021
+137,Oaxaca,Santiago Ixtayutla,26.65,14.39,7-nov-2021
+137,Oaxaca,Santiago Jamiltepec,26.65,14.39,7-nov-2021
+137,Oaxaca,Santiago Llano Grande,26.65,14.39,7-nov-2021
+137,Oaxaca,Santiago Minas,26.65,14.39,7-nov-2021
+137,Oaxaca,Santiago Pinotepa Nacional,26.65,14.39,7-nov-2021
+137,Oaxaca,Santiago Tapextla,26.65,14.39,7-nov-2021
+137,Oaxaca,Santiago Tetepec,26.65,14.39,7-nov-2021
+137,Oaxaca,Santiago Yaitepec,26.65,14.39,7-nov-2021
+137,Oaxaca,Santo Domingo Armenta,26.65,14.39,7-nov-2021
+137,Oaxaca,Santos Reyes Nopala,26.65,14.39,7-nov-2021
+137,Oaxaca,Tataltepec de Valdés,26.65,14.39,7-nov-2021
+138,Quintana Roo,Felipe Carrillo Puerto,25.85,13.96,7-nov-2021
+138,Quintana Roo,José María Morelos,25.85,13.96,7-nov-2021
+139,Quintana Roo,Othón P. Blanco,24.19,13.06,7-nov-2021
+139,Quintana Roo,Bacalar,25.98,14.03,7-nov-2021
+140,Yucatán,Abalá,23.98,12.95,7-nov-2021
+140,Yucatán,Acanceh,23.98,12.95,7-nov-2021
+140,Yucatán,Akil,23.98,12.95,7-nov-2021
+140,Yucatán,Baca,23.98,12.95,7-nov-2021
+140,Yucatán,Celestún,23.98,12.95,7-nov-2021
+140,Yucatán,Conkal,23.98,12.95,7-nov-2021
+140,Yucatán,Cuzamá,23.98,12.95,7-nov-2021
+140,Yucatán,Chacsinkín,23.98,12.95,7-nov-2021
+140,Yucatán,Chapab,23.98,12.95,7-nov-2021
+140,Yucatán,Chicxulub Pueblo,23.98,12.95,7-nov-2021
+140,Yucatán,Chocholá,23.98,12.95,7-nov-2021
+140,Yucatán,Chumayel,23.98,12.95,7-nov-2021
+140,Yucatán,Dzan,23.98,12.95,7-nov-2021
+140,Yucatán,Halachó,23.98,12.95,7-nov-2021
+140,Yucatán,Hunucmá,23.98,12.95,7-nov-2021
+140,Yucatán,Ixil,23.98,12.95,7-nov-2021
+140,Yucatán,Kanasín,23.98,12.95,7-nov-2021
+140,Yucatán,Kinchil,23.98,12.95,7-nov-2021
+140,Yucatán,Kopomá,23.98,12.95,7-nov-2021
+140,Yucatán,Mama,23.98,12.95,7-nov-2021
+140,Yucatán,Maní,23.98,12.95,7-nov-2021
+140,Yucatán,Maxcanú,23.98,12.95,7-nov-2021
+140,Yucatán,Mayapán,23.98,12.95,7-nov-2021
+140,Yucatán,Mérida,23.98,12.95,7-nov-2021
+140,Yucatán,Mocochá,23.98,12.95,7-nov-2021
+140,Yucatán,Muna,23.98,12.95,7-nov-2021
+140,Yucatán,Opichén,23.98,12.95,7-nov-2021
+140,Yucatán,Oxkutzcab,23.98,12.95,7-nov-2021
+140,Yucatán,Peto,23.98,12.95,7-nov-2021
+140,Yucatán,Progreso,23.98,12.95,7-nov-2021
+140,Yucatán,Sacalum,23.98,12.95,7-nov-2021
+140,Yucatán,Samahil,23.98,12.95,7-nov-2021
+140,Yucatán,Santa Elena,23.98,12.95,7-nov-2021
+140,Yucatán,Seyé,23.98,12.95,7-nov-2021
+140,Yucatán,Tahdziú,23.98,12.95,7-nov-2021
+140,Yucatán,Teabo,23.98,12.95,7-nov-2021
+140,Yucatán,Tecoh,23.98,12.95,7-nov-2021
+140,Yucatán,Tekax,23.98,12.95,7-nov-2021
+140,Yucatán,Tekit,23.98,12.95,7-nov-2021
+140,Yucatán,Tetiz,23.98,12.95,7-nov-2021
+140,Yucatán,Ticul,23.98,12.95,7-nov-2021
+140,Yucatán,Timucuy,23.98,12.95,7-nov-2021
+140,Yucatán,Tixkokob,23.98,12.95,7-nov-2021
+140,Yucatán,Tixmehuac,23.98,12.95,7-nov-2021
+140,Yucatán,Tixpéhual,23.98,12.95,7-nov-2021
+140,Yucatán,Tzucacab,23.98,12.95,7-nov-2021
+140,Yucatán,Ucú,23.98,12.95,7-nov-2021
+140,Yucatán,Umán,23.98,12.95,7-nov-2021
+140,Yucatán,Yaxkukul,23.98,12.95,7-nov-2021
+141,Yucatán,Bokobá,26.03,14.06,7-nov-2021
+141,Yucatán,Buctzotz,26.03,14.06,7-nov-2021
+141,Yucatán,Cacalchén,26.03,14.06,7-nov-2021
+141,Yucatán,Cansahcab,26.03,14.06,7-nov-2021
+141,Yucatán,Cantamayec,26.03,14.06,7-nov-2021
+141,Yucatán,Cenotillo,26.03,14.06,7-nov-2021
+141,Yucatán,Dzemul,26.03,14.06,7-nov-2021
+141,Yucatán,Dzidzantún,26.03,14.06,7-nov-2021
+141,Yucatán,Dzilam de Bravo,26.03,14.06,7-nov-2021
+141,Yucatán,Dzilam González,26.03,14.06,7-nov-2021
+141,Yucatán,Dzoncauich,26.03,14.06,7-nov-2021
+141,Yucatán,Hocabá,26.03,14.06,7-nov-2021
+141,Yucatán,Hoctún,26.03,14.06,7-nov-2021
+141,Yucatán,Homún,26.03,14.06,7-nov-2021
+141,Yucatán,Huhí,26.03,14.06,7-nov-2021
+141,Yucatán,Izamal,26.03,14.06,7-nov-2021
+141,Yucatán,Kantunil,26.03,14.06,7-nov-2021
+141,Yucatán,Motul,26.03,14.06,7-nov-2021
+141,Yucatán,Muxupip,26.03,14.06,7-nov-2021
+141,Yucatán,Quintana Roo,26.03,14.06,7-nov-2021
+141,Yucatán,Sanahcat,26.03,14.06,7-nov-2021
+141,Yucatán,Sinanché,26.03,14.06,7-nov-2021
+141,Yucatán,Sotuta,26.03,14.06,7-nov-2021
+141,Yucatán,Sudzal,26.03,14.06,7-nov-2021
+141,Yucatán,Suma,26.03,14.06,7-nov-2021
+141,Yucatán,Tahmek,26.03,14.06,7-nov-2021
+141,Yucatán,Tekal de Venegas,26.03,14.06,7-nov-2021
+141,Yucatán,Tekantó,26.03,14.06,7-nov-2021
+141,Yucatán,Telchac Pueblo,26.03,14.06,7-nov-2021
+141,Yucatán,Telchac Puerto,26.03,14.06,7-nov-2021
+141,Yucatán,Temax,26.03,14.06,7-nov-2021
+141,Yucatán,Tepakán,26.03,14.06,7-nov-2021
+141,Yucatán,Teya,26.03,14.06,7-nov-2021
+141,Yucatán,Tunkás,26.03,14.06,7-nov-2021
+141,Yucatán,Xocchel,26.03,14.06,7-nov-2021
+141,Yucatán,Yaxcabá,26.03,14.06,7-nov-2021
+141,Yucatán,Yobaín,26.03,14.06,7-nov-2021
+142,Yucatán,Calotmul,26.26,14.18,7-nov-2021
+142,Yucatán,Cuncunul,26.26,14.18,7-nov-2021
+142,Yucatán,Chankom,26.26,14.18,7-nov-2021
+142,Yucatán,Chemax,26.26,14.18,7-nov-2021
+142,Yucatán,Chichimilá,26.26,14.18,7-nov-2021
+142,Yucatán,Chikindzonot,26.26,14.18,7-nov-2021
+142,Yucatán,Dzitás,26.26,14.18,7-nov-2021
+142,Yucatán,Espita,26.26,14.18,7-nov-2021
+142,Yucatán,Kaua,26.26,14.18,7-nov-2021
+142,Yucatán,Panabá,26.26,14.18,7-nov-2021
+142,Yucatán,Río Lagartos,26.26,14.18,7-nov-2021
+142,Yucatán,San Felipe,26.26,14.18,7-nov-2021
+142,Yucatán,Sucilá,26.26,14.18,7-nov-2021
+142,Yucatán,Tekom,26.26,14.18,7-nov-2021
+142,Yucatán,Temozón,26.26,14.18,7-nov-2021
+142,Yucatán,Tinum,26.26,14.18,7-nov-2021
+142,Yucatán,Tixcacalcupul,26.26,14.18,7-nov-2021
+142,Yucatán,Tizimín,26.26,14.18,7-nov-2021
+142,Yucatán,Uayma,26.26,14.18,7-nov-2021
+142,Yucatán,Valladolid,26.26,14.18,7-nov-2021
+143,Quintana Roo,Isla Mujeres,24.08,13.00,7-nov-2021
+143,Quintana Roo,Benito Juárez,24.08,13.00,7-nov-2021
+143,Quintana Roo,Solidaridad,24.08,13.00,7-nov-2021
+143,Quintana Roo,Tulum,24.08,13.00,7-nov-2021
+143,Quintana Roo,Puerto Morelos,24.08,13.00,7-nov-2021
+144,Quintana Roo,Lázaro Cárdenas,25.95,14.01,7-nov-2021
+145,Quintana Roo,Cozumel,26.40,14.26,7-nov-2021
